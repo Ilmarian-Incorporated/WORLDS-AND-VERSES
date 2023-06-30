@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "3938c0654eae24dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c681a337b4bc25f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9827b8f1aacba1a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/List of Books.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c60a8951a2bf028a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e505a612c5df2b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d9eb2ec20a900b9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcf5b1c6d1ce1dff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "alphonse",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 304.5
+  },
+  "right": {
+    "id": "8e08d051b23f736f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d2115f92dcaf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcc58185cb279d50",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/List of Books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d03063c9fcee53ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b970e232751152be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/List of Books.md"
+              }
+            }
+          },
+          {
+            "id": "769d85eeb77c6e0c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9827b8f1aacba1a9",
+  "lastOpenFiles": [
+    "Change Log.md",
+    "Books/Non-Published/Short Story/Washed Up (Short Story).md",
+    "Books/Non-Published/Short Story/The Case of the Imperial Ripper (Short Story).md",
+    "Books/Non-Published/Short Story/The Collected Stories of Kimura Yasunori (Short Story).md",
+    "Books/Non-Published/Novel/The Ascetic of Appetence (Novel).md",
+    "Books/Non-Published/Short Story/Royal Protector (Short Story).md",
+    "Books/Non-Published/Short Story/Marx (Short Story).md",
+    "Books/Non-Published/Short Story/Honourable Warrior (Short Story).md",
+    "Books/Non-Published/Short Story/Enter the Gates (Short Story).md",
+    "Books/Non-Published/Short Story/Dorothee Story (Short Story).md"
+  ]
+}

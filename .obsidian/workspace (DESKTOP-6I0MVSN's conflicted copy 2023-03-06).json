@@ -1,0 +1,241 @@
+{
+  "main": {
+    "id": "3938c0654eae24dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "36a0bf5c2f035172",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a038d2a436e9b611",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Menu.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "1bc5e189646d062e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. WORLDS & VERSES/FERA WORLD/People/0. To Edit/Female/Ike.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "dd15981ce9933da7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Settings & Misc/0. Templates/0. Character Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c60a8951a2bf028a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e505a612c5df2b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf5b1c6d1ce1dff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ike",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e068f145eb5436c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "354de7843a05b077",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "right": {
+    "id": "8e08d051b23f736f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d2115f92dcaf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03063c9fcee53ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b970e232751152be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. WORLDS & VERSES/FERA WORLD/People/0. To Edit/Female/Ike.md"
+              }
+            }
+          },
+          {
+            "id": "769d85eeb77c6e0c",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "069c74c34e8587bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. WORLDS & VERSES/FERA WORLD/People/0. To Edit/Female/Ike.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b459c50679ee2e73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. WORLDS & VERSES/FERA WORLD/People/0. To Edit/Female/Ike.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-map-view:Open map view": false,
+      "homepage:Open homepage": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "graph:Open graph view": false,
+      "command-palette:Open command palette": false,
+      "publish:Publish changes": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
+    }
+  },
+  "active": "1bc5e189646d062e",
+  "lastOpenFiles": [
+    "Gassam.md",
+    "0. WORLDS & VERSES/FERA WORLD/People/0. To Edit/Female/Ike.md",
+    "Ike's Camp.md",
+    "Main Menu.md",
+    "0. Settings & Misc/0. Templates/0. Character Template.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ike - Boy 1.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Maja Kohn - Wait.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Iona La Placa - Field.md",
+    "0. WORLDS & VERSES/FERA WORLD/Races/Vampire Types/Vampire.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Gyzel Von Wickten - Vampire.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Olivia Schmid - Landing.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Lästig Tann - Suck.md",
+    "2. Roleplay/1 - To  Edit/Fera World/Fera World - Lästig Tann - 1.md",
+    "2. Roleplay/1 - To  Edit/Fera World/zz - Fera World -  Untitled  (43).md",
+    "2. Roleplay/1 - To  Edit/Fera World/zz - Fera World -  Untitled  (73).md",
+    "2. Roleplay/1 - To  Edit/Fera World/zz - Fera World -  Untitled  (49).md",
+    "2. Roleplay/1 - To  Edit/Fera World/zz - Fera World -  Untitled  (9).md",
+    "2. Roleplay/1 - To  Edit/Fera World/Fera World - Rudiger Nessler - 2.md",
+    "2. Roleplay/1 - To  Edit/Fera World/Fera World - Rudiger Nessler - 1.md",
+    "2. Roleplay/1 - To  Edit/Fera World/Antoinette Mullenbach - Work.md",
+    "2. Roleplay/1 - To  Edit/Fera World/Fera World - Amanda Köstner - Hunting.md",
+    "2. Roleplay/2. To Post/Fera World/Maja Kohn - Wait.md",
+    "2. Roleplay/2. To Post/Fera World/Iona La Placa - Field.md",
+    "0. WORLDS & VERSES/FERA WORLD/People/The Hillbanes Mining Company/Adil Cilobnin.md",
+    "0. WORLDS & VERSES/FERA WORLD/Organisations/Guilds & Businesses/The Hillbanes Mining Company.md",
+    "0. WORLDS & VERSES/FERA WORLD/People/The Hillbanes Mining Company/Îton Keshanaban.md",
+    "1. Attachments/Pasted image 20230302185835.png",
+    "1. Attachments/Pasted image 20230302184943.png",
+    "0. WORLDS & VERSES/FERA WORLD/People/The Hillbanes Mining Company",
+    "1. Attachments/FaceApp_1677767755042.jpg",
+    "1. Attachments/FaceApp_1677767654750.jpg",
+    "1. Attachments/FaceApp_1677767645850.jpg",
+    "1. Attachments/FaceApp_1677767625105.jpg",
+    "1. Attachments/Pasted image 20230302184517.png",
+    "1. Attachments/Pasted image 20230302184445.png",
+    "1. Attachments/Pasted image 20230302184414.png",
+    "1. Attachments/Pasted image 20230302184343.png",
+    "publish.css",
+    "0. WORLDS & VERSES/FERA WORLD/Locations/3. Lands/The Three Kingdoms",
+    "0. WORLDS & VERSES/FERA WORLD/Organisations/Rules, Creeds and Tenants",
+    "0. WORLDS & VERSES/FERA WORLD/Organisations/Roles and Ranks",
+    "0. WORLDS & VERSES/FERA WORLD/Other/Terms, Words and Swears",
+    "0. WORLDS & VERSES/FERA WORLD/Other/Disease & Infections",
+    "3. Source Books & Information/Comparative_Wages_Prices_and_Cost_of_Liv.pdf"
+  ]
+}

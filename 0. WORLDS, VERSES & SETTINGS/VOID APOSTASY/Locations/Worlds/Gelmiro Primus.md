@@ -1,0 +1,1 @@
+a desert world on the far reaches of the Angelus Arm of the galaxy, north of the Great Maelstrom

@@ -1,0 +1,13 @@
+# Tags
+[Main Menu](Main%20Menu.md)
+
+**NOTE**
+THIS IS USING DATAVIEW AND CURRENTLY HAS ISSUES WITH DISPLAYING ON PUBLISHED. IT MAY BE FIXED IN THE FUTURE.
+
+----
+```dataview
+TABLE Character, Lewd
+FROM #OpenRP
+SORT lewd
+
+```
