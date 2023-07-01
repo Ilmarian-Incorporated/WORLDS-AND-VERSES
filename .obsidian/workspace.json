@@ -26,17 +26,22 @@
             "id": "724ef583e9b40e29",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Northern Unified States of Pawhye (Nation).md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           },
           {
-            "id": "cf959c8f2d694a6a",
+            "id": "abd252fa23f34e9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/Nations & Cultures.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -130,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/Nations & Cultures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/Nations & Cultures.md"
               }
             }
           },
@@ -165,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/Nations & Cultures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +207,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf959c8f2d694a6a",
+  "active": "abd252fa23f34e9e",
   "lastOpenFiles": [
-    "Main Menu.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Ember Confederacy (Nation).md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Northern Unified States of Pawhye (Nation).md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-151043-IYLYG3O.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-150925-IYLYG3O.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-150833-IYLYG3O.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-151035-IYLYG3O.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/Nations & Cultures.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/~syncthing~The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-151035-IYLYG3O.md.tmp",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/~syncthing~The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-151043-IYLYG3O.md.tmp",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/~syncthing~The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-150925-IYLYG3O.md.tmp",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/~syncthing~The Northern Unified States of Pawhye (Nation).sync-conflict-20230701-150833-IYLYG3O.md.tmp",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Nations & Cultures/Alrussian Federation (Nation).md",
     "README.md",
+    "Main Menu.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Nadiya Vovk - Dream.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Amina De Fronzo- Serve.md",
     "2. Roleplay/FERA WORLD/Open Starters/NSFW/Gillian - Private.md",
@@ -222,14 +239,6 @@
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Kimura - Hurt.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Kilian - Hand.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Jules - Ork.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Johann Wall - Trench Clear.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Inga Vogel - Camp.md",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Inga Vogel.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Imanuela - Sorcery.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Idel - Pay.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/hilde - Genocide.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hilde - Boot.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hilde - Coffee.md",
     "1. Attachments/a489992b7e44f1d86e39a9b7a57e8abb 1.jpg",
     "1. Attachments/4998c3bb85b33fcf2c0d74155fb532cb.jpg",
     "1. Attachments/777a5c2ef08820a542033b7110e862fc 1.jpg",
@@ -246,10 +255,6 @@
     "table-export-002.csv",
     "Untitled.canvas",
     "table-export-001.csv",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Locations/3. Lands/Ceset",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Items and Structures/Books & Written texts",
-    "1. Attachments/(2) Home  Twitter.mp4",
-    "1. Attachments/YvZEDO4D0Ikuglly.mp4",
-    "1. Attachments/hY0VSYX3T4Vwwc78 1.mp4"
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Locations/3. Lands/Ceset"
   ]
 }
