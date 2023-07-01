@@ -23,7 +23,15 @@
             }
           },
           {
-            "id": "ce5b8fae4fb2317a",
+            "id": "724ef583e9b40e29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "cf959c8f2d694a6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,14 +170,21 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "ff49ef94dcc26a49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 258.5,
-    "collapsed": true
+    "width": 258.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +202,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ce5b8fae4fb2317a",
+  "active": "cf959c8f2d694a6a",
   "lastOpenFiles": [
     "Main Menu.md",
     "README.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Nadiya Vovk - Dream.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Amina De Fronzo- Serve.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Gillian - Private.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Nazan Yagci-  Ruins.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Alesia - Pain.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Alesia - Ocean.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Aleisa - Training.md",
@@ -211,10 +230,6 @@
     "2. Roleplay/FERA WORLD/Open Starters/SFW/hilde - Genocide.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Hilde - Boot.md",
     "2. Roleplay/FERA WORLD/Open Starters/SFW/Hilde - Coffee.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hilde - Hot.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hilde - Sand.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Heinrich Ohlendorf - Again.md",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Heinrich & Endlin - Grenade.md",
     "1. Attachments/a489992b7e44f1d86e39a9b7a57e8abb 1.jpg",
     "1. Attachments/4998c3bb85b33fcf2c0d74155fb532cb.jpg",
     "1. Attachments/777a5c2ef08820a542033b7110e862fc 1.jpg",
