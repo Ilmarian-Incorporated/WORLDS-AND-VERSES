@@ -10,7 +10,8 @@ Playable: Yes
 #Character #FeraCharacter
 
 # Arlayna
-![[starryai-undefined-834118081-1-1-photo_2.png]]# Summary
+![[starryai-undefined-834118081-1-1-photo_2.png]]
+# Summary
 Once a simple girl to a simple family, Arlayna was caught up in a [[Goblin]] raid of her family's caravan, with her mother, father, sisters and brothers killed and sodomised, the girl was quickly taken by the goblins as their next toy. However a passing caravan interrupted the goblins fun, ending in the girls throat being slit by the goblins before they fled.
 
 With medical treatment she hung onto life and with the help of a mysterious [[Witch in the Woods]], the girl was given an elixar to heal her wound, this however had a catch.

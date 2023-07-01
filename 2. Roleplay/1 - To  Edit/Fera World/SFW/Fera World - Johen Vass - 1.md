@@ -1,9 +1,9 @@
 ---
-Character: 
+Character: Johen Vass
 Lewd: 
 ---
 # Character
-
+[[Johen Vass]]
 
 # Starter
 

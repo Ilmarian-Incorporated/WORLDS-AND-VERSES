@@ -10,7 +10,7 @@ Playable: Yes
 
 > [!infobox|light]+  
 > # Johen Vass  
-> ![[FaceApp_1673371628964.jpg]]  
+>![[FaceApp_1673371628964.jpg]]
 > ###### Character Information
 >  |   |
 > --|---|  
