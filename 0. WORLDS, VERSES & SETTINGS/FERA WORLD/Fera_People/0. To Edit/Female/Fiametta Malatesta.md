@@ -25,7 +25,7 @@ Fiametta Malatesta
 Fia
 
 ## Race
-[[Vampire]] - [[Human]] - [Alrussian](Alrussian.md)
+[[../../../Fera_Races/Human Cultures/Alrussian|[Vampire]]
 
 ## Gender
 Female
@@ -49,6 +49,6 @@ Female
 
 # Images
 ![[starryai-undefined-775122662-1-1-photo_0.png]]
-![](E9af9kkX0AM-6Z2.jpg)
-![](FQiaUbZVEAIpHsp.jpg)![](FQnHGmKVUAA74-Q.jpg)
-![](FNu-m_sXwAMJcEc.jpg)
+![[../../../../../1. Attachments/E9af9kkX0AM-6Z2.jpg]]
+![[../../../../../1. Attachments/FQiaUbZVEAIpHsp.jpg]]![[../../../../../1. Attachments/FQnHGmKVUAA74-Q.jpg]]
+![[../../../../../1. Attachments/FNu-m_sXwAMJcEc.jpg]]

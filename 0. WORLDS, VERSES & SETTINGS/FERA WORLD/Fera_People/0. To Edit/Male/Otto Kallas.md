@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Otto Kallas
-![](FSMhDFrXIAA-JY2.jpg)
+![[../../../../../1. Attachments/FSMhDFrXIAA-JY2.jpg]]
 
 # Summary
 

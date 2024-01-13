@@ -8,4 +8,4 @@ Lewd: Yes
 # Starter
 "I am on holiday and you want to talk business?"
 
-#OpenRP #FeraRP #LewdRP![](FLlLpjkXsAIe4Cz.jpg)
+#OpenRP #FeraRP #LewdRP![[../../../../1. Attachments/FLlLpjkXsAIe4Cz.jpg]]

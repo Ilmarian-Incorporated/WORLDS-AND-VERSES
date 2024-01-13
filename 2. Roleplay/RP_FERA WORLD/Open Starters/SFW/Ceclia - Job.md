@@ -3,10 +3,10 @@ Character: Ceclia Darrington
 Lewd: Yes
 ---
 # Character
-[Cecilia Darrington](People/0.%20Characters/Character%20Profiles/To%20Edit/Cecilia%20Darrington.md)
+[[People/0. Characters/Character Profiles/To Edit/Cecilia Darrington.md|Cecilia Darrington]]
 
 # Starter
 "So tell me why I should hire you for this job?"
 
 #OpenRP #FeraRP #LewdRP 
-![](seok-jeon-crow-concept6.jpg)
+![[../../../../1. Attachments/seok-jeon-crow-concept6.jpg]]

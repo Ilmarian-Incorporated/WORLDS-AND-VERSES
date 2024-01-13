@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Suzuki Tsuneari
-![](FFngGRCX0AYXxZm.jpg)
+![[../../../../../1. Attachments/FFngGRCX0AYXxZm.jpg]]
 
 # Summary
 

@@ -9,4 +9,4 @@ Lewd: No
 "So, you  think that you are good enough to run with my crew?"
   
 #OpenRP #FeraRP #LewdRP 
-![](kaz_brekker_by_merwild_daq56zi-fullview.jpg)
+![[../../../../1. Attachments/kaz_brekker_by_merwild_daq56zi-fullview.jpg]]

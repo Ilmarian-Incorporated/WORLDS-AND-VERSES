@@ -11,7 +11,7 @@ Playable: Yes
 
 # Alma Del Bene
 
-![](beautiful-redhead-cosplayer-girl-wearing-victorian-style-steampunk-costume-big-breast-deep-neckline-touches-pocket-watch-142326228.jpg)
+![[../../../../../1. Attachments/beautiful-redhead-cosplayer-girl-wearing-victorian-style-steampunk-costume-big-breast-deep-neckline-touches-pocket-watch-142326228.jpg]]
 
 # Summary
 Born in the early 1800's. Alma was a servant girl before she was turned to a Vampire by the Baron she worked for.

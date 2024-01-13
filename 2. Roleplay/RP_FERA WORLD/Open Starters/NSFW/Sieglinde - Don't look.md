@@ -3,10 +3,10 @@ Character: Sieglinde
 Lewd: Yes
 ---
 # Character
-[Sieglinde Gotz](People/0.%20Characters/Character%20Profiles/To%20Edit/Sieglinde%20Gotz.md)
+[[People/0. Characters/Character Profiles/To Edit/Sieglinde Gotz.md|Sieglinde Gotz]]
 
 # Starter
 "Don't look. I don't like the sight of it, Please."
   
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](DWtfAitUQAAYoL3.jpg)
+![[../../../../1. Attachments/DWtfAitUQAAYoL3.jpg]]

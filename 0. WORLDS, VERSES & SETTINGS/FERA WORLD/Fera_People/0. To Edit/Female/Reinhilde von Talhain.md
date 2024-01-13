@@ -24,13 +24,13 @@ Reinhilde Von Talhain
 Renny
 
 ## Race
-[[Human]] - [Pawhye (Nation)](Pawhye%20(Nation).md)
+[[Nation)](Pawhye (Nation|[Human]].md)
 
 ## Gender
 Female
 
 ## Languages
-[Pawhye (Nation)](Pawhye%20(Nation).md)
+[[Nation)](Pawhye (Nation|Pawhye (Nation)]].md)
 
 ## Locations of Interest
 

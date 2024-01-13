@@ -23,16 +23,16 @@ Nehir Nur
 ## Alias
 
 ## Race
-[Yaralti](Yaralti.md)
+[[../../../Fera_Races/Elvish Types/Yaralti]]
 
 ## Gender
 Female
 
 ## Languages
-[Yaralti](Yaralti.md)
+[[../../../Fera_Races/Elvish Types/Yaralti]]
 
 ## Locations of Interest
-- Home city - [Karanlik Taraf](Karanlik%20Taraf.md)
+- Home city - [[../../../Fera_Locations/3. Lands/The Three Kingdoms/Ilmaria/Yaralti City States/Karanlik Taraf]]
 
 ## Date of Birth
 
@@ -50,5 +50,5 @@ Female
 # History
 
 # Images
-![](Ke5vgINx.jpg)
-![](9258f6fded7c6a1cdd3829e375867b86.jpg)
+![[../../../../../1. Attachments/Ke5vgINx.jpg]]
+![[../../../../../1. Attachments/9258f6fded7c6a1cdd3829e375867b86.jpg]]

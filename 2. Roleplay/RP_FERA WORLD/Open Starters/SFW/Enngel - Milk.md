@@ -10,4 +10,4 @@ Lewd: Yes
 
 #OpenRp #FeraRp #LewdRP
 
-![](FFItRIWXECQ-z2i.jpg)
+![[../../../../1. Attachments/FFItRIWXECQ-z2i.jpg]]

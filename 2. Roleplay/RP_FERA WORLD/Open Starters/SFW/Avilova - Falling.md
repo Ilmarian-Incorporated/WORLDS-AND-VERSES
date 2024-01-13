@@ -11,4 +11,4 @@ Lewd: No
 "Quick.. think! You stupid whore! Think!"
 
 #OpenRP #FeraRP #LewdRP 
-![](images.jpg)
+![[../../../../1. Attachments/images.jpg]]

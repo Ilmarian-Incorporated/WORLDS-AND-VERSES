@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Saba Prosperi
-![](d8ue0ob-66e5c9f8-d394-4ba3-9b36-619761cabf69.jpg)
+![[../../../../../1. Attachments/d8ue0ob-66e5c9f8-d394-4ba3-9b36-619761cabf69.jpg]]
 
 # Summary
 

@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Voileta Ganea
-![](FCylnO9WQAAU_q7.jpg)
+![[../../../../../1. Attachments/FCylnO9WQAAU_q7.jpg]]
 
 # Summary
 

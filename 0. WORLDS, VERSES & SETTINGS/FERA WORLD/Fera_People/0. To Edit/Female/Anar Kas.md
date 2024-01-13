@@ -22,14 +22,14 @@ Anar Kas
 ## Alias
 
 ## Race
-[Aşağı](Aşağı.md)
+[[../../../Fera_Races/Elvish Types/Aşağı]]
 
 ## Gender
 Female
 
 ## Languages
-- [Ilmarian](Ilmarian.md)
-- [Aşağı](Aşağı.md)
+- [[../../../Fera_Races/Human Cultures/Ilmarian]]
+- [[../../../Fera_Races/Elvish Types/Aşağı]]
 
 ## Locations of Interest
 

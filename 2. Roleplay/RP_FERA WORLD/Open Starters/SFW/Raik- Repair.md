@@ -9,4 +9,4 @@ Lewd: No
 "What? You going to stand there and gawp or are you going to help? This path won't repair itself." 
 
 #OpenRP #FeraRP #LewdRP
-![](Pasted%20image%2020220610184849.jpg)
+![[../../../../1. Attachments/Pasted image 20220610184849.jpg]]

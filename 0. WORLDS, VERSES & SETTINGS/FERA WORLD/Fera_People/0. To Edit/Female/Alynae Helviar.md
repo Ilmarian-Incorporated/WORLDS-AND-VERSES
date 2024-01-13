@@ -11,7 +11,7 @@ Playable: Yes
 
 > [!infobox|light]+  
 > # Alynae Helviar  
-> ![](OC3.png)
+> ![[../../../../../1. Attachments/OC3.png]]
 > ###### Character Information
 >  |   |
 > --|---|  
@@ -41,7 +41,7 @@ After her family were murdered by bandits from the surface, the girl was taken a
 
 # History
 ### Life
-It was late into the 1800's of the Imperial age and Alynae Helviar was hiding ion the outskirts of the vast [[Yaralti]] City-State of [[Karanlik Taraf]].  The city had been here for thousands upon thousands of years, ever since the [[Night Mother]] brought the [[Yaralti]] people away from the foul [[Üstün]] leader [Kräl Şah](Kräl%20Şah.md) [Yilmazok Akar](Yilmazok%20Akar.md). They have lived in peace and tranquillity, hidden from all other creatures in [[Fera (Planet)]]'s Underground. 
+It was late into the 1800's of the Imperial age and Alynae Helviar was hiding ion the outskirts of the vast [[../../../Fera_Organisations/Roles and Ranks/Kräl Şah|[Yaralti]] [[../../Male/Yilmazok Akar]]. They have lived in peace and tranquillity, hidden from all other creatures in [[Fera (Planet)]]'s Underground. 
 
 The young girl was a mistake, an [[Arizali (Insult)]]. A defect. 
 
@@ -60,13 +60,13 @@ It did not stop the girl from being scared; these foul smelling and foul-speakin
 
 Unknown to the girl, the men had came upon a tavern on the road heading north to [[Tousir (City)]], they had left her in the cage, a cage no bigger than her actual body and leaving her sat down and cramped. A thick blanket thrown over the top slightly revealed her to the world. 
 
-The pale white skin hinted with a blue-purple. The long ears, red eyes and white hair. She was an unknown, nothing anyone had ever seen before on the surface. The [Yaralti](Yaralti.md) were unknown and only by accident had these bandits and slavers come into possession of the girl. Inside they partied away, drinking and feasting; leaving the poor girl outside in the cold of winter. 
+The pale white skin hinted with a blue-purple. The long ears, red eyes and white hair. She was an unknown, nothing anyone had ever seen before on the surface. The [[../../../Fera_Races/Elvish Types/Yaralti]] were unknown and only by accident had these bandits and slavers come into possession of the girl. Inside they partied away, drinking and feasting; leaving the poor girl outside in the cold of winter. 
 
 ### First Friendly Face
 
 Alynae was rescued by a travelling bard named "[[Shadow]]". Breaking into the cage after putting the bandits to sleep thanks to his skill in poisons; the bard took the frightened and blind Alynae in to the tavern. He washed her up and fed her, giving some of his clothes for her to wear. 
 
-However not was all that it seemed. [[Shadow]] had some not so fine intentions for the girl. First was the murder of the people who did this to her. Using some of his magic, he modified her memory and made her believe that revenge was what she wanted, even though it was against her belief to [The Night Mother](The%20Night%20Mother) After that they proceeded to one of Shadow's hideouts. 
+However not was all that it seemed. [[The Night Mother|[Shadow]] After that they proceeded to one of Shadow's hideouts. 
 
 
 ### Tutelage
@@ -77,13 +77,13 @@ She fell in love with her new protector. The blind girl had never loved anyone l
 
 # Images
 Art sketched by Megs-ILS (https://www.patreon.com/MegsILS/)
-![](OC3.png)
+![[../../../../../1. Attachments/OC3.png]]
 
 Fan Art by @devilishmidboss on Twitter
-![](Dds5eAk4.jpg)
-![](image0.jpg)
-![](image1.png)
+![[../../../../../1. Attachments/Dds5eAk4.jpg]]
+![[../../../../../1. Attachments/image0.jpg]]
+![[../../../../../1. Attachments/image1.png]]
 
 # Inspired Images
-![](d86415c50decaf28b366746e0ff7b7f0.jpg)
-![](a14271c9a47f2cb9b454e25f7ad0bf38.jpg)
+![[../../../../../1. Attachments/d86415c50decaf28b366746e0ff7b7f0.jpg]]
+![[../../../../../1. Attachments/a14271c9a47f2cb9b454e25f7ad0bf38.jpg]]

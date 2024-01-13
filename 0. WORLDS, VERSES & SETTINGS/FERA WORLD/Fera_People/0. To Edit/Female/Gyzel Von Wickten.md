@@ -11,7 +11,7 @@ Playable: Yes
 
 # Gyzel Von Wickten
 
-![](EZxfuQIWkAI6bY9.jpg)
+![[../../../../../1. Attachments/EZxfuQIWkAI6bY9.jpg]]
 
 # Summary
 

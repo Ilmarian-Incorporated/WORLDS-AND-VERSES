@@ -9,4 +9,4 @@ Lewd: No
 "It is funny that you seem to think the war that has raged on for over a century will end anytime soon? The Imperator's Council states it will be over by Yule but which?" Margrett laughed softly as she looked over the vast group of dinner guests
 
 #OpenRP #FeraRP #LewdRP 
-![](the-council-walkthrough-episode-1-tips.jpg)
+![[../../../../1. Attachments/the-council-walkthrough-episode-1-tips.jpg]]

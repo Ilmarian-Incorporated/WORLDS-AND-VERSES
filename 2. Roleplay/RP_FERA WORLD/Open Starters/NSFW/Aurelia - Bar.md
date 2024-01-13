@@ -3,10 +3,10 @@ Character: Aurelia
 Lewd: Yes
 ---
 # Character
-[Aurelia Rouse](People/0.%20Characters/Character%20Profiles/To%20Edit/Aurelia%20Rouse.md)
+[[People/0. Characters/Character Profiles/To Edit/Aurelia Rouse.md|Aurelia Rouse]]
 
 # Starter
 "Don't worry, my boyfriend doesn't mind when I fuck others, he's able to fuck others too. We're in an open relationship. Would you like something from the bar when we're done?" Aurelia asked
 
 #OpenRP #FeraRP #LewdRP 
-![](sample_c53619e2f13729e32b0694a905fcb565.jpg)
+![[../../../../1. Attachments/sample_c53619e2f13729e32b0694a905fcb565.jpg]]

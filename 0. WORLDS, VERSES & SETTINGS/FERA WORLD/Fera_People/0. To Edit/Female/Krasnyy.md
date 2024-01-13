@@ -46,4 +46,4 @@ Playable: Yes
 # Images
 
 ![[it_s_red_by_pheberoni-d8z2f17.jpg]]
-![](Pasted%20image%2020220605204939.png)
+![[../../../../../1. Attachments/Pasted image 20220605204939.png]]

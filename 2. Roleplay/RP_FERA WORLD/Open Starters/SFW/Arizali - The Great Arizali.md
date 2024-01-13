@@ -3,11 +3,11 @@ Character: Arizali
 Lewd: No
 ---
 # Character
-[Arizali Dhunnyr](People/0.%20Characters/Character%20Profiles/To%20Edit/Arizali%20Dhunnyr.md)
+[[People/0. Characters/Character Profiles/To Edit/Arizali Dhunnyr.md|Arizali Dhunnyr]]
 
 # Starter
 As the lanterns went down, the Ring Master motioned high into the tent at the vast array of ropes. "And now, I present! The Great Arizali!"
 
 #OpenRP #FeraRP #LewdRP 
-  ![](tumblr_poafxgK3au1w1q98q_1280.png)
+  ![[../../../../1. Attachments/tumblr_poafxgK3au1w1q98q_1280.png]]
 

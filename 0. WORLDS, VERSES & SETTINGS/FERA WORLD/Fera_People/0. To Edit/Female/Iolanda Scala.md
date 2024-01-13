@@ -11,7 +11,7 @@ Playable: Yes
 
 # Iolanda Scala
 
-![](EXdwAVQXkAANyQx.jpg)
+![[../../../../../1. Attachments/EXdwAVQXkAANyQx.jpg]]
 
 # Summary
 

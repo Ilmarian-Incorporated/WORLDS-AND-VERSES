@@ -11,7 +11,7 @@ Playable: Yes
 
 # Belina Gelardi
 
-![](FOkemCsXEAEKtu9.jpg)
+![[../../../../../1. Attachments/FOkemCsXEAEKtu9.jpg]]
 # Summary
 
 

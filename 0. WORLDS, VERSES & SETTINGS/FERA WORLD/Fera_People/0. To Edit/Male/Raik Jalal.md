@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Raik Jalal
-![](Pasted%20image%2020220610184849.jpg)
+![[../../../../../1. Attachments/Pasted image 20220610184849.jpg]]
 
 # Summary
 

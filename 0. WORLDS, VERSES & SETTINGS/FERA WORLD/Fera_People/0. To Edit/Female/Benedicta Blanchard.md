@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Benedicta Blanchard
-![](FLlLpjkXsAIe4Cz.jpg)
+![[../../../../../1. Attachments/FLlLpjkXsAIe4Cz.jpg]]
 
 # Summary
 

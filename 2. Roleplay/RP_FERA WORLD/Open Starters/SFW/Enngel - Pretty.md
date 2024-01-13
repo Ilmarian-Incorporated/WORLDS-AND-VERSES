@@ -9,4 +9,4 @@ Lewd: No
 "So, go on, tell me how you think I'm beautiful"
 
 #OpenRP #FeraRP #LewdRP 
-![](FCkHGuWUYAA4LGM.jpg)
+![[../../../../1. Attachments/FCkHGuWUYAA4LGM.jpg]]

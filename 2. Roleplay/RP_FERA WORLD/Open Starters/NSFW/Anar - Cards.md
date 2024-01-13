@@ -9,4 +9,4 @@ Lewd: Yes
 "You... win.. I guess."
 
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](EPZCNA3WAAIIYo7.jpg)
+![[../../../../1. Attachments/EPZCNA3WAAIIYo7.jpg]]

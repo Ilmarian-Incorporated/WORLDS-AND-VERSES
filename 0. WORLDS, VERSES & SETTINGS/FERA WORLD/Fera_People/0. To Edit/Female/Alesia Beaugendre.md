@@ -26,7 +26,7 @@ Alesia Beaugendre
 - Sia
 
 ## Race
-[[Human]] - [Ilmarian](Ilmarian.md)
+[[../../../Fera_Races/Human Cultures/Ilmarian|[Human]]
 
 ## Gender
 Female
@@ -36,8 +36,8 @@ Female
 
 ## Locations of Interest
 - [[Adestein (City)]]
-- [Valroath](Valroath.md) - Underground City of Thieves
-- [Tousir (City)](Tousir%20(City).md) - End of "[Entitled (Book)](Entitled%20(Book))"
+- [[../../../Fera_Locations/3. Lands/The Three Kingdoms/Ilmaria/Adestein/Valroath]] - Underground City of Thieves
+- [[City)](Tousir (City|Tousir (City)]].md) - End of "[[Book)](Entitled (Book|Entitled (Book)]])"
 
 ## Date of Birth
 

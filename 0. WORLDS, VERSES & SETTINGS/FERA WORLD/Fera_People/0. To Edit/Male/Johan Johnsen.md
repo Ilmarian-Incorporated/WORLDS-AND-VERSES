@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Johan Johnsen
-![](7982634924583775717.png)
+![[../../../../../1. Attachments/7982634924583775717.png]]
 
 # Summary
 

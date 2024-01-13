@@ -11,7 +11,7 @@ Playable: Yes
 
 
 # Falko Lauer
-![](kaz_brekker_by_merwild_daq56zi-fullview.jpg)
+![[../../../../../1. Attachments/kaz_brekker_by_merwild_daq56zi-fullview.jpg]]
 
 # Summary
 

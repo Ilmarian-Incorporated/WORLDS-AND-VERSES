@@ -42,7 +42,7 @@ A member of a top secret Ilmarian special forces team,.
 # Images
 
 # Inspired Images
-![ | 350](Big-Boss-Salute.jpg)
-![ | 350](3428510-big+boss.jpg)
-![ | 350](img183.jpg)
-![ | 350](DiIAyXQUEAEHLCo.jpg)
+![[../../../../../1. Attachments/Big-Boss-Salute.jpg| | 350]]
+![[../../../../../1. Attachments/3428510-big+boss.jpg| | 350]]
+![[../../../../../1. Attachments/img183.jpg| | 350]]
+![[../../../../../1. Attachments/DiIAyXQUEAEHLCo.jpg| | 350]]

@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Daciana Musat
-![](91647642da7a5a6bac09569526854cd9.jpg)
+![[../../../../../1. Attachments/91647642da7a5a6bac09569526854cd9.jpg]]
 
 # Summary
 

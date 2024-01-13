@@ -11,4 +11,4 @@ Lewd: Yes
 Avilova said, letting out a breath of smoke before coughing.
 
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](download.jpg)
+![[../../../../1. Attachments/download.jpg]]

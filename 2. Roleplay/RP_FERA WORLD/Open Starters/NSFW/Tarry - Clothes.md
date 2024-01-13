@@ -3,10 +3,10 @@ Character: Tarry
 Lewd: Yes
 ---
 # Character
-[Tarisha Yannenberg](People/0.%20Characters/Character%20Profiles/To%20Edit/Tarisha%20Yannenberg.md)
+[[People/0. Characters/Character Profiles/To Edit/Tarisha Yannenberg.md|Tarisha Yannenberg]]
 
 # Starter
 "Do I really have to wear this?"
 
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](EMPR-tzWoAACqGG.jpg)
+![[../../../../1. Attachments/EMPR-tzWoAACqGG.jpg]]

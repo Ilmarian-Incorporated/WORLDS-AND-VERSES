@@ -10,7 +10,7 @@ Playable: Yes
 
 > [!infobox|light]+  
 > # Vasil  
-> ![](DiIAwmxV4AIjTni.jpg)
+> ![[../../../../../1. Attachments/DiIAwmxV4AIjTni.jpg]]
 > ###### Character Information
 >  |   |
 > --|---|  

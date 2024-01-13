@@ -25,17 +25,17 @@ Brunhilde Ryserin
 Brunny
 
 ## Race
-[[Human]] - [Ilmarian](Ilmarian.md)
+[[../../../Fera_Races/Human Cultures/Ilmarian|[Human]]
 
 ## Gender
 Female
 
 ## Languages
-- [Ilmarian](Ilmarian.md)
+- [[../../../Fera_Races/Human Cultures/Ilmarian]]
 
 ## Locations of Interest
 - [[Großenfeld]] - Home village
-- [Adestein](Adestein.md) - Home of [[The Silver Stallions]]
+- [[Adestein.md|Adestein]] - Home of [[The Silver Stallions]]
 - [[Meridian Castle]] - Work as Captain of the Guard
 ## Date of Birth
 
@@ -58,7 +58,7 @@ Female
 
 # History
 ## Life as a child.
-Daughter to a whore, Brunhilde grew up in the small village of [[Großenfeld]] in the [[Ilmarian Imperium (Nation)]]s [The Principality of Arnvoren](The%20Principality%20of%20Arnvoren.md) With her mother not really knowing who her father was, Brunny's life was one of dodging molesters and forced work in the brothel. She had decided long ago that she was going to kill the man who brought her into this world and the only thing that she had a lead to was the name "[[The Silver Stallions]]" and a sword. 
+Daughter to a whore, Brunhilde grew up in the small village of [[Nation)]]s [The Principality of Arnvoren](The Principality of Arnvoren.md|[Großenfeld]] With her mother not really knowing who her father was, Brunny's life was one of dodging molesters and forced work in the brothel. She had decided long ago that she was going to kill the man who brought her into this world and the only thing that she had a lead to was the name "[[The Silver Stallions]]" and a sword. 
 
 Her father had been such a cheapskate that he had gone to a brothel without anything to pay the girls for his time. He had instead left one of his swords as payment. Brunhilde found out that [[The Silver Stallions]] were a rather strong and well known mercenary company in the north and would go north to find them. 
 
@@ -104,4 +104,4 @@ At the age of fourteen, she left the brothel, carrying the sword that was as big
 ![[starryai-undefined-394946862-1-1-photo.png]]
 
 
-![](ad44a01f470f07e684889c3ac2f24e1b.jpg)
+![[../../../../../1. Attachments/ad44a01f470f07e684889c3ac2f24e1b.jpg]]

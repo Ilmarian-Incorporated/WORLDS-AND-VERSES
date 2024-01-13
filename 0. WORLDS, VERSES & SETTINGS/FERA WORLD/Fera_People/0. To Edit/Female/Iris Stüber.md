@@ -25,13 +25,13 @@ Iris Stüber
 - Queen Bitch
 
 ## Race
-[[Human]] - [Alrussian](Alrussian.md)
+[[../../../Fera_Races/Human Cultures/Alrussian|[Human]]
 
 ## Gender
 Female
 
 ## Languages
-- [Alrussian](Alrussian.md)
+- [[../../../Fera_Races/Human Cultures/Alrussian]]
 - [[Umissian]]
 - [[Ilmarian]]
 

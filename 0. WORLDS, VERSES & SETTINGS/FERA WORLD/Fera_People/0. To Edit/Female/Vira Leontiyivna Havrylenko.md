@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Vira Leontiyivna Havrylenko
-![](Pasted%20image%2020220610184759.jpg)
+![[../../../../../1. Attachments/Pasted image 20220610184759.jpg]]
 
 # Summary
 

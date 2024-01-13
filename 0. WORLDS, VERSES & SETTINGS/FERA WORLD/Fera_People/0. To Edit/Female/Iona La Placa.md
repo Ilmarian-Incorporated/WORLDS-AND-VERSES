@@ -10,7 +10,7 @@ Playable: Yes
 #Character #FeraCharacter 
 
 # Iona La Placa
-![](IMG_20190123_124618.jpg)
+![[../../../../../1. Attachments/IMG_20190123_124618.jpg]]
 
 # Summary
 

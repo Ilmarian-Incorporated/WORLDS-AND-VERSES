@@ -55,4 +55,4 @@ Female
 ![[starryai-undefined-538280405-1-1-photo.png]]
 ![[starryai-undefined-538280405-1-1-photo_0.png]]
 ![[starryai-undefined-538280405-1-1-photo_1.png]]
-![](1339451276_preview_adam.jpg)
+![[../../../../../1. Attachments/1339451276_preview_adam.jpg]]

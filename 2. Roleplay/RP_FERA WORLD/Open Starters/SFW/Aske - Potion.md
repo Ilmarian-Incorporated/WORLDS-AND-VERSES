@@ -10,4 +10,4 @@ Lewd: No
 
 #OpenRP #FeraRP #LewdRP
 
-![](Pasted%20image%2020220610184928.png)
+![[../../../../1. Attachments/Pasted image 20220610184928.png]]
