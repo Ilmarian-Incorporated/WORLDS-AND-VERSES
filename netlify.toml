@@ -8,7 +8,7 @@ LANDING_BUTTON = "ENTER THE WORLDS!"
 # (Optional) Site description on landing page
 LANDING_DESCRIPTION = "Click the button below to enter the Wiki for the worlds. (NOTE it is still WIP as I'm trying to use something new instead of paying for Obsidian Publish)"
 # (REQUIRED) The Markdown page linked to landing page button (e.g. put home for ./home.md)
-LANDING_PAGE = "0. Main/Main Menu"
+LANDING_PAGE = "0._Main/Main_Menu"
 # (Optional) Site title on landing page
 LANDING_TITLE = "Welcome to the Worlds of Lewis Stockton."
 PYTHON_VERSION = "3.8"
