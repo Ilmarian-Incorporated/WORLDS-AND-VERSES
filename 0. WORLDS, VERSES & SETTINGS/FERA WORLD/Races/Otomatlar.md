@@ -3,9 +3,8 @@
 #FeraWorld
 
 # Summary
-A Race of ancient Automata created by a race long before the [[Üstün]].
+Originally called the [[Ruhsuz (Race)]], the Otomatlar were a race of ancient Automata created by a race long before the [[Üstün Empire (Nation)]] by the [[Yaslan Eternal Empire (Nation)]] and but taken by the [[Üstün Empire (Nation)]] and used against the [[Yaslan Eternal Empire (Nation)]] when their slaves rose up.
+
+Weaker but no less identical to their original form, they were twisted and tainted by the [[Üstün Empire (Nation)]] with their Aether Sorcery.
 
 # Images
-![[Pasted image 20230610105444.jpg | 350]]
-![[NecronWarrior10.webp | 350]]
-![[Necron_Warrior.webp | 350]]

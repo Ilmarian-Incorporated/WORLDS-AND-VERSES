@@ -9,4 +9,4 @@ Knight
 "C...Coward... how... dare you.."
 
 #OpenRP #FeraRP #LewdRP 
-![](Pasted%20image%2020220610184730.jpg)
+![[../../../../1. Attachments/Pasted image 20220610184730.jpg]]

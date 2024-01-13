@@ -1,6 +1,6 @@
 ---
 Character: Agnes
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Agnes Von Kunßhain]]

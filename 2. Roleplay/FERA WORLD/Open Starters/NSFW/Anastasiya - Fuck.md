@@ -7,7 +7,6 @@ Lewd: Yes
 
 # Starter
 "What's the point when everyone you cared for is dead and he's only wanting you to fuck you for a castle."
-  
 
-#OpenRP #FeraRP #LewdRP 
-![](EvHhfC0XMAAb43P.mp4)
+#OpenRP #FeraRP #MCRP #FantasyRP #DiscordRP #LewdRP 
+![[../../../../1. Attachments/EvHhfC0XMAAb43P.mp4]]

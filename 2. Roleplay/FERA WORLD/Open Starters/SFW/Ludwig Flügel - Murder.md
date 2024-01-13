@@ -8,6 +8,6 @@ Lewd: No
 # Starter
 "You can come out, I won't hurt you. I just need to talk to you about the murder you saw." 
 
-#OpenRP #FeraRP #LewdRP 
+#OpenRP #FeraRP #MCRP #FantasyRP #DiscordRP
 
 ![[Pasted image 20220711170330.jpg]]

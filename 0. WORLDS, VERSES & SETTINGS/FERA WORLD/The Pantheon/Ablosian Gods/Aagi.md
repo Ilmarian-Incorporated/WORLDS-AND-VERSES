@@ -8,4 +8,4 @@ Aagi
 
 God Of Fire 
 
-![](Aagi.jpg)
+![[../../../../1. Attachments/Aagi.jpg]]

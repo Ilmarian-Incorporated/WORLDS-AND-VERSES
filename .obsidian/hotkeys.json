@@ -53,15 +53,6 @@
       "key": "Z"
     }
   ],
-  "templater-obsidian:0. Settings & Misc/0. Templates/2. Book Template.md": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "\\"
-    }
-  ],
   "publish:view-changes": [
     {
       "modifiers": [
@@ -77,6 +68,15 @@
         "Shift"
       ],
       "key": "Key223"
+    }
+  ],
+  "templater-obsidian:0. Settings & Misc/0. Templates/2. Book Template.md": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
     }
   ]
 }

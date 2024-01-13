@@ -1,7 +1,8 @@
 ---
 Character: Josephine Auerswald
-Story: Return to Sender
+Lewd: No
 ---
+
 
 # Character
 [[Josephine Auerswald]]

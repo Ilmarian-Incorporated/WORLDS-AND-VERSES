@@ -1,21 +1,17 @@
-![[A Ghoulish Case.png]]
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # A Ghoulish Case   
+> ![[A Ghoulish Case.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | A Ghoulish Case |  
+> Type | Novella |
+> Format | Epub | 
+> Status | Published | 
+> Genre | Action, Romance | 
+> Setting | Fera World | 
 
 # Summary
-
 
 # Plot
 

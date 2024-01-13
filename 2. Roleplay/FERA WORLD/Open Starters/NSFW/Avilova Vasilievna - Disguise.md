@@ -1,6 +1,6 @@
 ---
 Character: Avilova Vasilievna
-Lewd: YEs
+Lewd: Yes
 ---
 # Character
 [[Avilova Vasilievna]]

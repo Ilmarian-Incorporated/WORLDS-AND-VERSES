@@ -3,6 +3,7 @@ Gender: Male
 Location: Ilmaria
 Year: 1800 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -18,14 +19,15 @@ Playable: Yes
 > Alias | Renny |  
 > Race | Initial - [[Human]] - [[Ilmarian]], Turned - [[The Usta Zalim]] |  
 > Gender | Initial - Male,  Turned - Non-gendered |
-> Languages | [[Ilmarian (Language)]],  [[Alrussian]], [[Umissian]], [[Aşağı]], [[Üstün]] |
+> Languages | [[Ilmarian (Language)]],  [[Alrussian (Language)]], [[Umissian (Language)]], [[Üstün (Language)]] |
 > Date of Birth | TXT |
-> Date of Death | TXT |
+> Date of Death | Transformation Completed: Wineday the 33rd of Dusk 1832  |
 
 # Reinhold Cunningham
 
-
 # Summary
+Protagonist of the Short story [[The Usta Zalim (Short Story)]].
+
 A Professor of Ancient History at [[The Tousir Imperial Academy]], on an expedition to uncover a series of Ancient [[Üstün]] artefacts, he comes across a book created by an ancient Demon.
 
 # Locations of Interest

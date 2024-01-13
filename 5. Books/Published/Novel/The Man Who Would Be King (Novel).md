@@ -13,7 +13,7 @@
 
 # Summary
 
-[[Andreas Vandersryke]] is a simple man with a shaded past. [[Nexanda Tora]] is a [[Dragonkin]] youngling who has escaped her horrible past. After bumping into each other, the pair now travel [[Fera (Planet)]] together.
+[[Andreas Ibram Vandersryke]] is a simple man with a shaded past. [[Nexanda Tora]] is a [[Dragonkin]] youngling who has escaped her horrible past. After bumping into each other, the pair now travel [[Fera (Planet)]] together.
 
 A vast boom in technology has shifted the [[Ilmarian Imperium (Nation)]] into the Flintlock Era, pushing forward with Cannon and rifle, the age of Magic was thought to be dying with the rise of the [[Gunslinger]]s. Using gunpowder as their fuel, [[Gunslinger]]s are the rising stars in magic. Able to use their magical powers to control explosions, musket balls mid-flight and gunpowder.
 

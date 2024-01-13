@@ -5,4 +5,4 @@
 # Summary
 
 
-[[Kokka (Language)]]
+[[Kokkan (Language)]]

@@ -6,7 +6,7 @@ Lewd: No
 [[Ike]]
 
 # Starter
-"You are doing well Ike." He whispered into her ear, bringing a smile to her lips for the first time in a long time.
+"You are doing well [[Ike]]." He whispered into her ear, bringing a smile to her lips for the first time in a long time.
 
 It hurt her cheeks.
 

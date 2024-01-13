@@ -1,6 +1,6 @@
 ---
-Character: 
-Lewd: 
+Character: Reinhold Cunningham
+Lewd: No
 ---
 # Character
 [[Reinhold Cunningham]]

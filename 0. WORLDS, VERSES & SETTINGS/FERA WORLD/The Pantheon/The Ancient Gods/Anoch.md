@@ -8,4 +8,4 @@ Anoch
 
 God of Knowledge
 
-![](Anoch.jpg)
+![[../../../../1. Attachments/Anoch.jpg]]

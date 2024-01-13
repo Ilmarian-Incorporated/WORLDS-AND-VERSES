@@ -9,4 +9,4 @@ Blacksmith Apprentice
 "Yeah, what's it to you. I made these! My father was a blacksmith and I was his apprentice! Doesn't mean I can't fight with them!"
 
 #OpenRP #FeraRP #LewdRP 
-![](4.jpg)
+![[../../../../1. Attachments/4.jpg]]

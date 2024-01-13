@@ -1,6 +1,6 @@
 ---
 Character: Viviana Friedberger
-Lewd: yes
+Lewd: Yes
 ---
 # Character
 [[Viviana Friedberger]]

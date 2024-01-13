@@ -7,7 +7,6 @@ Lewd: Yes
 
 # Starter
 "So tell me, you're from Pawhye, what do you think of the Alrussian winter here? Very cold yes? Means we all cuddle by fire."
- 
 
 #OpenRP #FeraRP #LewdRP 
 

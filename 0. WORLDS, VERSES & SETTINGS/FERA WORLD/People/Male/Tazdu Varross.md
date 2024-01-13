@@ -3,6 +3,7 @@ Gender: Male
 Location: Ilmaria
 Year: 1800 L
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -18,7 +19,7 @@ Playable: Yes
 > Alias | The Stranger, Quill - Tribal Name / Clan  |  
 > Race | [[Human]] - [[Ilmarian]] |  
 > Gender | Male |
-> Languages |[[Ilmarian (Language)]], [[Orcs]] |
+> Languages |[[Ilmarian (Language)]], [[Orcish (Language)]] |
 > Date of Birth | TXT |
 > Date of Death | TXT |
 

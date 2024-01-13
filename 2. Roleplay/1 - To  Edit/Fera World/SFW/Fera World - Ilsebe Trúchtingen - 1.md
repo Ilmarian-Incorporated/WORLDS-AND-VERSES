@@ -1,6 +1,6 @@
 ---
 Character: Ilsebe Trúchtingen
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Ilsebe Trúchtingen]]

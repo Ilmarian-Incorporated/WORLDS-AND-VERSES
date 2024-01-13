@@ -8,4 +8,4 @@ Cynsyet
 
 Goddess of Sexuality
 
-![](Cynsyet.jpg)
+![[../../../../1. Attachments/Cynsyet.jpg]]

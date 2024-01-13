@@ -6,4 +6,4 @@
 
 The Faceless One
 	God of Fate
-![](The%20Faceless%20One.jpg)
+![[../../../../1. Attachments/The Faceless One.jpg]]

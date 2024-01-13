@@ -1,6 +1,6 @@
 ---
 Character: Tatanya Volkov
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Tatanya Volkov]]

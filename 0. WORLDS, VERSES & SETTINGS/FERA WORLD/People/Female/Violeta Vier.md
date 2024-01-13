@@ -4,6 +4,7 @@ Gender: Female
 Location: Alrussia
 Year: 1900 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -19,7 +20,7 @@ Playable: Yes
 > Alias | Vivvy. Vivs |  
 > Race | [[Human]] - [[Alrussian]] |  
 > Gender | Female |
-> Languages | [[Alrussian]] |
+> Languages | [[Alrussian (Language)]] |
 > Date of Birth | Saintsday 50th Hearthswrath 1900 |
 > Date of Death | TXT |
 

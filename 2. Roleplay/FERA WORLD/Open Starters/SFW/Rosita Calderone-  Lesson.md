@@ -10,5 +10,5 @@ Fire, the city was on fire and Rosita was stood at the ruins of her home. She ha
 
 A lesson that she would teach to everyone of their army.
 
-#OpenRP #FeraRP
+#OpenRP #FeraRP #MCRP #FantasyRP
 ![[0daa7528b5203d13238a3756f64900c0.jpg]]

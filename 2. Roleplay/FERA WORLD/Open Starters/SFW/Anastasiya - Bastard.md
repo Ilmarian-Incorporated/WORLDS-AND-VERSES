@@ -10,5 +10,5 @@ Looking over the icy mountains of the Spine's Shoulder Region, Anastasiya sighed
 
 She'd not even met him, the fat bastard.
 
-#OpenRP #FeraRP #LewdRP
+#OpenRP #FeraRP #MCRP #FantasyRP #DiscordRP
 ![[3511783c56ea2eb5fa337c060130cf68.jpg]]

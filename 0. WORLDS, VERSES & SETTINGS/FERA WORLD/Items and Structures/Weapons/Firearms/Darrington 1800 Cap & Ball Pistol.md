@@ -9,4 +9,4 @@ The Darrington 1800 Model Revolvers along with subsequent models and variation
 The Darrington 1800 revolver was a secondary, supplemental issue firearm for the [[Ilmarian Imperium (Nation)]]. It saw use in the New World ([[Pawhye (Nation)]]) both in its original percussion configuration and as a metallic cartridge conversion, as well as around the world.
 
 # Images
-![](Maxresdefault.png)![](A26.png)
+![[../../../../../1. Attachments/Maxresdefault.png]]![[../../../../../1. Attachments/A26.png]]

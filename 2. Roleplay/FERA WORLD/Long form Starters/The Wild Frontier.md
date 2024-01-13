@@ -7,7 +7,7 @@ Lewd: Yes
 [Elyon](https://twitter.com/elyonofmeridian)
 
 # Starter
-The winds raced across the frontier as Solomon Sinclair, magical Gunslinger and enforcer of The Van Der Graph gang, notorious across the Frontier of the 'New World', a series of nation states, counties and counties across the Pawhye continent.
+The winds raced across the frontier as Solomon Sinclair, magical [[Gunslinger]] and enforcer of The Van Der Graph gang, notorious across the Frontier of the 'New World', a series of nation states, counties and counties across the Pawhye continent.
 
 To the North and along the coast were the most built up regions, these were the landing ports, the first settlers came here and went south. The further south, south-west and south-east you went, the less civilisation you came across however as the travellers forged ahead they put in ways of transport supplies back to the Old World Nations. Locomotives were the main transport route, river and canal boats were the next easiest way while most travelled by carriage and horse.
 

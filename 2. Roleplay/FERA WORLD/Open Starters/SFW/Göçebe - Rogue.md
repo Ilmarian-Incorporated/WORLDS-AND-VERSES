@@ -1,6 +1,6 @@
 ---
 Character: Göçebe
-Lewd: 
+Lewd: No
 ---
 # Character
 [[Göçebe]]

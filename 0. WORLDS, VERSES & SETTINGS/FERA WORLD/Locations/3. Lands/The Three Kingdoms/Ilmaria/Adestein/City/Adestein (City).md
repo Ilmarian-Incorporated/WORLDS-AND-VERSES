@@ -25,8 +25,8 @@
 - [[Kurt Uysal]]
 - [[Lach]]
 - [[Sibilla]]
-- [[Selin]]
-- [[Secil]]
+- [[Selin Bora]]
+- [[Secil Bora]]
 
 
-![](Southlands.png)
+![[../../../../../../../../1. Attachments/Southlands.png]]

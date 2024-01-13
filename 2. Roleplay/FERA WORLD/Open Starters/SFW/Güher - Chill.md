@@ -8,5 +8,5 @@ Lewd: No
 # Starter
 "Hmm? Yeah sorry, I was noit listening. Got my tunes on."  
 
-#OpenRP #FeraRP #LewdRP 
+#OpenRP #FeraRP #MCRP #FantasyRP
 ![[FNcvVh6XsAUKzLa.jpg]]

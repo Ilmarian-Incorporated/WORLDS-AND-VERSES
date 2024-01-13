@@ -4,6 +4,7 @@ Gender: Male
 Location: Vadras
 Year: 
 Playable: Yes
+World: Fera
 ---
 
 ### Tags

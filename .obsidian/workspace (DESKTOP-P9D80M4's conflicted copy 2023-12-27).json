@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "3938c0654eae24dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "431bb4e3861002de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe18af50c3738051",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Menu.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ca3eeaaba076f816",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~ Backroom/Discord Roleplay Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7407c469f7d856fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~ Backroom/Fera World Roleplay Characters.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "339f115a67848e56",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~ Backroom/Roleplay Starter Menu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c60a8951a2bf028a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e505a612c5df2b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf5b1c6d1ce1dff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e068f145eb5436c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "354de7843a05b077",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a2c9b369f0108a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 400.5
+  },
+  "right": {
+    "id": "8e08d051b23f736f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d2115f92dcaf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03063c9fcee53ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f46497ab3b82ffa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Menu.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7491d61eca492c46",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b85e5fdfaff53c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main Menu.md"
+              }
+            }
+          },
+          {
+            "id": "9c867161cac4dc52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Menu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff49ef94dcc26a49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "161375aca22dd581",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 344.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false,
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-map-view:Open map view": false,
+      "homepage:Open homepage": false,
+      "obisidian-note-linker:Note Linker": false
+    }
+  },
+  "active": "fe18af50c3738051",
+  "lastOpenFiles": [
+    "~ Backroom/Roleplay Starter Menu.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Wake.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Useless.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Why.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Genocide.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Dress.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Coffee.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Hildegunde von Vernichtung- Boot.md",
+    "Main Menu.md",
+    "4. Plots/Story Notes/Josephine Story Notes.md",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - Photo.md",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/People/Elizabeth Foley.md",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/People/Catherine Foley.md",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/People/Austin Foley.md",
+    "5. Books/Published/Novel/Entitled (Novel).md",
+    "5. Books/Published/Novel/Arizali (Novel).md",
+    "5. Books/List of Books.md",
+    "2. Roleplay/CITADEL OF DARKNESS/Richard Head - The Motel.md",
+    "2. Roleplay/CITADEL OF DARKNESS/Sarah - Late Night Shift.md",
+    "2. Roleplay/CITADEL OF DARKNESS/Emma Jackson - Photographer.md",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - The Motel.md",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - Road.md",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - Nightmare.md",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - Night.md",
+    "1. Attachments/Alan-Wake-2-New-Game-Plus-b3bdd1f.jpg",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - Limbo New York.md",
+    "2. Roleplay/CITADEL OF DARKNESS/William Blake - Invite.md",
+    "1. Attachments/vlcsnap-2023-12-17-14h49m55s604.png",
+    "1. Attachments/412784398_707050091524302_141961844906364809_n.jpg",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Male",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit",
+    "Untitled",
+    "1. Attachments/Dogs#.webp",
+    "1. Attachments/Misato-te-seducira-con-esta-provocadora-ilustracion-de-Evangelion 1.webp",
+    "1. Attachments/mvfrrsn4cci11.jpg",
+    "1. Attachments/# 1.png",
+    "1. Attachments/#.png",
+    "1. Attachments/#.webp",
+    "1. Attachments/starryai-0-411147497-1-0-photo (1) 1.png",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/Stories/Untitled",
+    "1. Attachments/Fera World (World_Of_Fera)  X (1).mp4",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/Objects of Power",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/Stories",
+    "1. Attachments/A Citadel of Darkness (CitadelDarkness)  X (1).mp4",
+    "Sula Agca",
+    "Untitled.canvas"
+  ]
+}

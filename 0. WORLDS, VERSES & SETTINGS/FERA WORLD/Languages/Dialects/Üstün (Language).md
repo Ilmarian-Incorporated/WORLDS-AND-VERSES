@@ -2,10 +2,7 @@
 
 #FeraWorld
 
-
-
-
-
+# Dictionary
 
 |Elvish    |Grammatical category     |Other info 1|Definition 1                                              |Definition 2|Definition 3|Definition 4|Notes|
 |----------|-------------------------|------------|----------------------------------------------------------|------------|------------|------------|-----|

@@ -1,21 +1,17 @@
-![[TWTSF 1 - Rebirth FRONT.png]]
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # The Way The Stars Fall 1. Rebirth    
+> ![[TWTSF 1 - Rebirth FRONT.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | The Way The Stars Fall 1. Rebirth |  
+> Type | Novel |
+> Format | Epub, Paperback | 
+> Status | Published | 
+> Genre | Science Fiction | 
+> Setting | "The Way The Stars Fall" Verse | 
 
 # Summary
-
 
 # Plot
 

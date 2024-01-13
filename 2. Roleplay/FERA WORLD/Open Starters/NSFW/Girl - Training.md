@@ -9,4 +9,4 @@ Girl
  "I am busy training, what is it you want?"
 
 #OpenRP #FeraRP #LewdRP 
-![](FOKpTogXsAAUiAs.jpg)
+![[../../../../1. Attachments/FOKpTogXsAAUiAs.jpg]]

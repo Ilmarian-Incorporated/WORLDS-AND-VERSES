@@ -3,7 +3,7 @@ Character: Ylenia Marcovici
 Lewd: Yes
 ---
 # Character
-[[3. People/0. Characters/To Edit/Ylenia Marcovici]]
+[[Ylenia Marcovici - Caught]]
 
 # Starter
 Ylenia was caught in the field, she knew these dirty Imperials would kill her if she resisted, so she waited; biding her time.

@@ -4,6 +4,7 @@ Gender: Male
 Location: Ilmaria
 Year: 2000 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags

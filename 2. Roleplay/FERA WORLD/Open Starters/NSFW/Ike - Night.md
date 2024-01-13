@@ -6,7 +6,7 @@ Lewd: Yes
 [[Ike]]
 
 # Starter
-Ike kept telling them no but they would not listen. They would not take no for an answer.
+[[Ike]] kept telling them no but they would not listen. They would not take no for an answer.
 
 Six water ration stamps and three food stamps. Thats all she was getting for the artifact. 
 

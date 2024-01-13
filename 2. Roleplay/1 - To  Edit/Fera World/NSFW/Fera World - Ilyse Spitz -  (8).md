@@ -1,6 +1,6 @@
 ---
 Character: Ilyse Spitz
-Lewd: 
+Lewd: Yes
 ---
 # Character
 [[Ilyse Spitz]]

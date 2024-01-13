@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "5971e0d7769caaf7",
+        "id": "431bb4e3861002de",
         "type": "tabs",
         "children": [
           {
-            "id": "dc44c3c0f5b6274c",
+            "id": "fe18af50c3738051",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Main Menu.md",
-                "mode": "preview",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
@@ -23,28 +23,51 @@
             }
           },
           {
-            "id": "5590ebee987bce75",
+            "id": "ca3eeaaba076f816",
             "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "6c84c371224e0d23",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Nikolai Vos - Meeting.md",
+                "file": "~ Backroom/Discord Roleplay Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "7407c469f7d856fd",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~ Backroom/Fera World Roleplay Characters.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "339f115a67848e56",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "~ Backroom/Roleplay Starter Menu.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": true
+              },
+              "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,12 +121,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 400.5
   },
   "right": {
     "id": "8e08d051b23f736f",
@@ -130,8 +152,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Nikolai Vos - Meeting.md",
-                "collapseAll": false,
+                "file": "Main Menu.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -155,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Nikolai Vos - Meeting.md"
+                "file": "Main Menu.md"
               }
             }
           },
@@ -165,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Nikolai Vos - Meeting.md",
+                "file": "Main Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,78 +200,95 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "161375aca22dd581",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
         ],
         "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 258.5
+    "width": 344.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "command-palette:Open command palette": false,
       "publish:Publish changes...": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "templates:Insert template": false,
       "switcher:Open quick switcher": false,
       "daily-notes:Open today's daily note": false,
       "graph:Open graph view": false,
       "markdown-importer:Open format converter": false,
-      "templater-obsidian:Templater": false,
-      "obisidian-note-linker:Note Linker": false,
       "canvas:Create new canvas": false,
-      "homepage:Open homepage": false
+      "templater-obsidian:Templater": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-map-view:Open map view": false,
+      "homepage:Open homepage": false,
+      "obisidian-note-linker:Note Linker": false
     }
   },
-  "active": "e068f145eb5436c7",
+  "active": "fe18af50c3738051",
   "lastOpenFiles": [
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - Dream.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - Brother.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - Bored.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Nikolai Vos - Meeting.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - 3.md",
-    "2. Roleplay/2. To Post/Fera World/Arizali Dhunnyr - House.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - 5.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - 4.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - 2.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Arizali Dhunnyr - 1.md",
-    "2. Roleplay/0. Currently Edited Starters/~syncthing~Arizali Dhunnyr - 5.md.tmp",
-    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 6.md.tmp",
-    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 5.md.tmp",
-    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 7.md.tmp",
-    "1. Attachments/59842a97eae0552e69354891f49cb184.jpg",
-    "1. Attachments/~syncthing~2039a6e66855367be8cf80084e0bf597.jpg.tmp",
-    "1. Attachments/~syncthing~1d7da6cd73de937a96fc9029a6d67f3b.jpg.tmp",
-    "1. Attachments/9bfacd413630f3e5b51c4f9b881ddcab.jpg",
-    "1. Attachments/1d7da6cd73de937a96fc9029a6d67f3b.jpg",
-    "1. Attachments/2039a6e66855367be8cf80084e0bf597.jpg",
-    "1. Attachments/b59fb9f1e00064767d96077d8107fdbe 1.jpg",
-    "1. Attachments/EcjI75rU4AAAPrD.png",
-    "1. Attachments/Eb6wNJKXYAYQOH9.jpg",
-    "1. Attachments/Ecuh3glWAAAJ53e.jpg",
-    "2. Roleplay/FERA WORLD/Open Starters/SFW/Arizali Dhunnyr - Nonsense.md",
-    "1. Attachments/EdLxB7ZU8AEjwO8.mp4",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Arizali Dhunnyr.md",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Alynae Helviar.md",
+    "~ Backroom/Roleplay Starter Menu.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Piss.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ellie O'More - Mushrooms.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ellie O'More - Morning After.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Insides.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Like this.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Prisoner.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ellie O'More - Plus One.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - In There.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - I'm Great.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Fashion.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Dwarves.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ellie O'More - Drunk.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ellie O'More - Ass.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/Female/Ellie O'More.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/Male/Reinhold Cunningham.md",
     "Main Menu.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Violeta Vier - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Nadiya Vovk - 8.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Josephine Auerswald - 2.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Josephine Auerswald - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Johen Vass - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Inga Vogel - 2.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Inga Vogel - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Frieda Wächtler - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Ealdwin Ravensburg - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Anja Lischke - 1.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/Zz - Fera World -  (72).md",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Josephine Auerswald.md",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Inga Vogel - 2.md.tmp",
-    "1. Attachments/FaceApp_1673371628964.jpg",
-    "1. Attachments/bf0b2e8fa7776825cfc6f4c47bf34cbf.jpg",
-    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Male/~syncthing~Nikolai Vos.sync-conflict-20230701-160413-IYLYG3O.md.tmp",
-    "2. Roleplay/1 - To  Edit/Fera World/SFW",
+    "~ Backroom/Discord Roleplay Template.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Demon - Boons.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Demon - Place.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Reinhold Cunningham - Need.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Reinhold Cunningham - Serve.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Demon - Gods.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Demon - Sacrifice.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Iris Stüber - Drink.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Iris Stüber - Sweaty.md",
+    "1. Attachments/Pasted image 20240103180451.jpg",
+    "table-export-002.csv",
+    "table-export-001.csv",
+    "1. Attachments/_c7ccf569-ccdd-45b6-9568-17e333160c9e.jpeg",
+    "1. Attachments/_698042de-ef7e-4bae-bdf9-f3806e0bf6eb.jpeg",
+    "1. Attachments/_126272fc-3695-4da5-b59b-45b9486b80c1.jpeg",
+    "1. Attachments/_ed70f750-d332-4d03-920a-74137e7bb2ec.jpeg",
+    "1. Attachments/_645b9952-fd44-4995-8c12-71beae273a59.jpeg",
+    "1. Attachments/_36fd9965-5079-4671-8406-3cdfbd581ffc.jpeg",
+    "1. Attachments/_ce2d2c3c-4b44-4cea-a786-e504ccd681d9.jpeg",
+    "1. Attachments/_70671e7d-b727-48d9-b773-4ce3fd84b9aa.jpeg",
+    "1. Attachments/_3708a3df-e85d-4db9-9d4d-a7638d22f8c6.jpeg",
+    "1. Attachments/Alan Wake War - 3.mp4",
+    "1. Attachments/Writer_in_the_Cabin_2.mp4",
+    "2. Roleplay/2. To Post/Citadel Of Darkness",
+    "1. Attachments/Alan Wake War - 0.mp4",
+    "0. WORLDS, VERSES & SETTINGS/CITADEL OF DARKNESS/People/Organisations",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Male",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit",
     "Untitled.canvas"
   ]
 }

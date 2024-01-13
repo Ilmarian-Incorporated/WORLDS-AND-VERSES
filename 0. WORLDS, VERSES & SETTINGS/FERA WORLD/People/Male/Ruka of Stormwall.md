@@ -3,6 +3,7 @@ Gender: Male
 Location: Ilmaria
 Year: 1700 L - 1800 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -18,7 +19,7 @@ Playable: Yes
 > Alias | The White Wolf |  
 > Race | [[Human]] - [[Shikari]] |  
 > Gender | Male |
-> Languages | [[Ilmarian (Language)]], [[Alrussian]], [[Umissian]], [[Üstün]] |
+> Languages | [[Ilmarian (Language)]], [[Alrussian (Language)]], [[Umissian (Language)]], [[Üstün (Language)]] |
 > Date of Birth | TXT |
 > Date of Death | TXT |
 

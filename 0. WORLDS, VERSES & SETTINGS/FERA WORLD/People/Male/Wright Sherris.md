@@ -1,9 +1,10 @@
 ---
-Name: Wright Sherris  
+Name: Wright Sherris
 Gender: Male
 Location: Ilmaria
-Year: 1800E
+Year: 1800 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags

@@ -1,9 +1,10 @@
 ---
-Name: Tobias Flügel  
-Gender: 
-Location: 
+Name: Tobias Flügel
+Gender: Male
+Location: Ilmaria
 Year: 
-Playable:
+Playable: Yes
+World: Fera
 ---
 
 ### Tags

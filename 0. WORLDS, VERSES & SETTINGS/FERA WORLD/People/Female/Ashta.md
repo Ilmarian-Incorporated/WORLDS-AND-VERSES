@@ -1,16 +1,17 @@
 ---
 Name: Ashta
 Gender: Female
-Location: Adestein
+Location: Ilmaria
 Year: 1800 E
 Playable: Yes
+World: Fera
 ---
 # Tags
 #Character #FeraCharacter #FeraWorld
 
 > [!infobox|light]+  
 > # Ashta
-> ![](ahsoka_tano_by_shellvi_dbdm8cq-fullview.jpg)
+> ![[../../../../1. Attachments/ahsoka_tano_by_shellvi_dbdm8cq-fullview.jpg]]
 > ###### Character Information
 >  |   |
 > --|---|  
@@ -18,15 +19,11 @@ Playable: Yes
 > Alias | Ash, The Jewel of Adestein |  
 > Race | [[Ikini]] |  
 > Gender | Female |
-> Languages | [[Ilmarian (Language)]], [[Aşağı]], [[Alrussian]], [[Umissian]]  |
+> Languages | [[Ilmarian (Language)]], [[Üstün (Language)]], [[Alrussian (Language)]], [[Umissian (Language)]]  |
 > Date of Birth | [[Saintsday]] the 50th of [[Godsnight]] 1411 |
 > Date of Death | TXT |
 
-
-
-
 # Ashta
-
 
 # Summary
 Found during a storm outside [[The Monastery of the Atiporith]] by one of the Monks, Ashta grew up not knowing her race or her home. After 16 years of living at the monastery, she began to show an nack for the darker and more emotional sides to the Aether and was banished after an attack in which she slaughtered the bandits raiding their home.
@@ -42,6 +39,7 @@ Not far from the place she had lived for all her life, the monk was caught by Sl
 [[Erich Rehn]] - Husband
 [[Amaru]] - Wife
 [[Madam Marcovici]] - Owner at [[The Ring-Dang-Do]]
+[[Shovruk Sandjarov]] - Owner of the other brothel.
 
 ## Locations of Interest
 - [[The Monastery of the Atiporith]]- Training / Home since childhood

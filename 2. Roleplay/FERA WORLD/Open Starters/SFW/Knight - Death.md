@@ -10,4 +10,4 @@ Knight
 
 #OpenRP #FeraRP #LewdRP
 
-![](3d9e2d9045c4e033b8f67a8b3bb4057e.jpg)
+![[../../../../1. Attachments/3d9e2d9045c4e033b8f67a8b3bb4057e.jpg]]

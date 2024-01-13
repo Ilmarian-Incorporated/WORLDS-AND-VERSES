@@ -3,6 +3,7 @@
 #FeraWorld
 
 # Summary
+A race created in [[Pawhye (Nation)]] by the ancient [[Üstün]] as an experiment. The Götling live in small communities inside [[The Götling Commune]], hiding from outsiders and guarded in what the modern world has come to known as [[Üstün Garden States (Nation)]], experimental micronations where the [[Üstün]] Lord ruled and made into whatever lands and experiments they wanted to peruse.
 
 # Known members
 [[Snook]]

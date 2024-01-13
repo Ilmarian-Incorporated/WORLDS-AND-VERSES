@@ -1,6 +1,6 @@
 ---
 Character: Izmaylova Anastasiya Nikitovna
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Izmaylova Anastasiya Nikitovna]]

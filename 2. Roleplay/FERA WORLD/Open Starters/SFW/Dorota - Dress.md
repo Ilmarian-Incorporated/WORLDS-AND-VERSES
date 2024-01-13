@@ -8,5 +8,5 @@ Lewd: No
 # Starter
 "Don't laugh. I look ridiculous."
 
-#OpenRP #FeraRP #LewdRP 
+#OpenRP #FeraRP #MCRP #FantasyRP
 ![[Pasted image 20220621184013.jpg]]

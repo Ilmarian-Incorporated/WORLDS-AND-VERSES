@@ -1,6 +1,6 @@
 ---
 Character: Marta Korol
-Lewd: 
+Lewd: No
 ---
 # Character
 [[Marta Korol]]

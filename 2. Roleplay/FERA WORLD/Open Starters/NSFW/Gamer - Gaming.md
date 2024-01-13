@@ -9,4 +9,4 @@ Girl
 "Shush, I've almost beat the boss."
 
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](ElWK6iYWkAIfBMK.jpg)
+![[../../../../1. Attachments/ElWK6iYWkAIfBMK.jpg]]

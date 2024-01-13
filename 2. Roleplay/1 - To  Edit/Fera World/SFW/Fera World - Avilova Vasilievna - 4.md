@@ -1,6 +1,6 @@
 ---
 Character: Avilova Vasilievna
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Avilova Vasilievna]]

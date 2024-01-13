@@ -11,4 +11,4 @@ Aşağı
 Her head snapping to the door as it opened. "What the fuck are you doing here!"
 
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](ELUUaYcWsAAnxQF.jpg)
+![[../../../../1. Attachments/ELUUaYcWsAAnxQF.jpg]]

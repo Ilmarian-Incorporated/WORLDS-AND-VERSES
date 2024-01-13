@@ -1,4 +1,49 @@
 ---
+Name: Foroenus  
+Gender: 
+Location: 
+Year: 
+Playable:
+World: Void Apostasy
+---
+
+### Tags
+#Character 
+
+> [!infobox|light]+  
+> # Foroenus  
+> ![[IMG]]  
+> ###### Character Information
+>  |   |
+> --|---|  
+> Name | Foroenus |  
+> Alias | TXT |  
+> Race | TXT |  
+> Gender | TXT |
+> Languages | TXT |
+> Date of Birth | TXT |
+> Date of Death | TXT |
+
+# Foroenus
+
+# Summary
+
+# Appearance
+
+# Personality
+
+# People of Interest
+
+# Locations of Interest
+
+# History
+
+# Images
+
+# Inspired Images
+
+
+---
 Name: Foroenus
 Location: 
 Year: N/A

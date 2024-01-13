@@ -1,9 +1,10 @@
 ---
-Name: Bartholomew Lyndon  
+Name: Bartholomew Lyndon
 Gender: Male
 Location: Vadras
 Year: 
 Playable: Yes
+World: Fera
 ---
 
 ### Tags

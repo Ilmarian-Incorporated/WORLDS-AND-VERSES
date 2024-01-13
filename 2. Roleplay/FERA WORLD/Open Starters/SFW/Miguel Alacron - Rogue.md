@@ -1,6 +1,6 @@
 ---
-Character: 
-Lewd: 
+Character: Miguel Alacron
+Lewd: No
 ---
 # Character
 [[Miguel Fadrique de Alarcon]]

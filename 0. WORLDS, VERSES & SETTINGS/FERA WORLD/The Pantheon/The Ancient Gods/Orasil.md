@@ -14,4 +14,4 @@ During [[The Great Calamity]], it is stated by records and religious texts he wa
 Several cults still exist praying to Orasil, some of them unknowingly praying to him or some in knowledge. One such cult is "[[The Hand of Orasil]]", part of the larger "[[Cult of Orasil]]", alongside "[[The Head of Orasil]]", "[[The Mind of Orasil]]",  "[[The Soul of Orasil]]", "[[The Finger of Orasil]]", "[[The Heart of Orasil]]", and "[[The Eye of Orasil]]".  
 
 
-![](Orasil.jpg)
+![[../../../../1. Attachments/Orasil.jpg]]

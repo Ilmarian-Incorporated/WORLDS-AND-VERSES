@@ -4,6 +4,7 @@ Gender: Male
 Location: Nargaroth
 Year: Ancient
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -19,14 +20,14 @@ Playable: Yes
 > Alias | [[Kräl Şah]] Yilmazok Akar  |  
 > Race | [[Üstün]]
 > Gender | Male |
-> Languages | TXT |
+> Languages | [[Üstün (Language)]], [[Yaslan (Language)]] |
 > Date of Birth | TXT |
 > Date of Death | TXT |
 
 # Yilmazok Akar
 
 # Summary
-Ruler of [[Nargaroth]] and Last [[Kräl Şah]] (Domain Lord) of The [[Üstün Empire (Nation)]]
+Ruler of [[Nargaroth (City)]] and Last [[Kräl Şah]] (Domain Lord) of The [[Üstün Empire (Nation)]]
 
 # Appearance
 

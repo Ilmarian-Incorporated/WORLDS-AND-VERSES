@@ -1,21 +1,17 @@
-![[CurseOfAPaladin.png]]
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # Curse Of A Paladin     
+> ![[CurseOfAPaladin.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | Curse Of A Paladin|  
+> Type | Novella |
+> Format | Epub | 
+> Status | Published | 
+> Genre | Action | 
+> Setting | Fera World | 
 
 # Summary
-
 
 # Plot
 

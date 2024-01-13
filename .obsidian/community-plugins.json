@@ -1,14 +1,17 @@
 [
-  "fantasy-calendar",
-  "dataview",
   "templater-obsidian",
-  "better-word-count",
-  "novel-word-count",
-  "homepage",
-  "obsidian-style-settings",
-  "multi-column-markdown",
   "obsidian-table-to-csv-exporter",
-  "csv-obsidian",
+  "obsidian-style-settings",
+  "obsidian-leaflet-plugin",
+  "novel-word-count",
   "obisidian-note-linker",
-  "obsidian-git"
+  "multi-column-markdown",
+  "obsidian-map-view",
+  "homepage",
+  "obsidian-5e-statblocks",
+  "fantasy-calendar",
+  "obsidian-excalidraw-plugin",
+  "dataview",
+  "csv-obsidian",
+  "obsidian-link-converter"
 ]

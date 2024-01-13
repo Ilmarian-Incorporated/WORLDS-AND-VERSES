@@ -1,6 +1,6 @@
 ---
 Character: 
-Lewd: 
+Lewd: Yes
 ---
 # Character
 

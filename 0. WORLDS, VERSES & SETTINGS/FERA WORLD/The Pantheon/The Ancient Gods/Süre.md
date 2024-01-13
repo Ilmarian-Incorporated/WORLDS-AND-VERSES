@@ -6,4 +6,4 @@
 
 Süre
 	God of Time
-![](Sure.jpg)
+![[../../../../1. Attachments/Sure.jpg]]

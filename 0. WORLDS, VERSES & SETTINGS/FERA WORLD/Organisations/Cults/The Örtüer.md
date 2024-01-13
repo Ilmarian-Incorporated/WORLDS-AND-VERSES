@@ -1,6 +1,6 @@
 ###### Tags
 
-#FeraWorld #Character
+#FeraWorld
 
 # The Örtüer
 ![[starryai-0-605852282-1-0-photo_2.png]]
@@ -23,22 +23,26 @@ After some time, the figure's skin would become pallid and grey, turning white u
 # History
 [[The Örtüer]] are the weapons of their master, once mortal figures given rings of power by the vile  [[Kräl Şah]] [[Yilmazok Akar]] . These ten rings gave great power to their wielder but twisted their minds and bodies; drove them to give themselves to their master. 
 
-In the later years, after [[Kräl Şah]] [[Yilmazok Akar]] 's reign of terror was defeated by [[1. The Nine Divines]] , some of the rings went into the hands of the Human's whom fought to defeat him. Warlords and powerful mortals took possession of the Rings and were soon driven again to destruction. 
+In the later years, after [[Kräl Şah]] [[Yilmazok Akar]] 's reign of terror was defeated by [[3. The Nine Divines]] , some of the rings went into the hands of the Human's whom fought to defeat him. Warlords and powerful mortals took possession of the Rings and were soon driven again to destruction. 
 
 Throughout the years the rings passed from legend to legend, soon captured and hidden by a band of adventurers . 
 
-## The Names of the last Örtüer.
-[[Nizar]]
-[[Anthonius]]
-[[Ia]]
-[[Asardin]]
-[[Salasid]]
-[[Namtar]]
-[[Aslaner]]
-[[Karya]]
-[[Ukran]]
-[[Lisakr]]
+## The Names of the Original Örtüer.
+1. [[Nizar]]
+2. [[Anthonius]]
+3. [[Ia]]
+4. [[Asardin]]
+5. [[Salasid]]
+6. [[Namtar]]
+7. [[Aslaner]]
+8. [[Karya]]
+9. [[Ukran]]
+10. [[Lisakr]]
 
+# The Names of the Wielders of the Rings
+- [[Vlandirleld Amberster]]
+- [[Elegosa]]
+- [[Xandril]]
 
 # Images
 ![[starryai-0-605852282-1-0-photo.png]]

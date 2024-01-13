@@ -11,8 +11,8 @@ Second Master
 Assistant Surgeon
 [Paymaster Purser](https://en.wikipedia.org/wiki/Supply_officer_(Royal_Navy))
 [Ice-Master](https://en.wikipedia.org/wiki/Master_(naval))
-[Boatswain](https://en.wikipedia.org/wiki/Boatswain#Royal_Navy)
-[Carpenter](https://en.wikipedia.org/wiki/Royal_Navy_ranks,_rates,_and_uniforms_of_the_18th_and_19th_centuries#Minors_in_the_Royal_Navy)
+[[https://en.wikipedia.org/wiki/Boatswain#Royal_Navy]]
+[[https://en.wikipedia.org/wiki/Royal_Navy_ranks,_rates,_and_uniforms_of_the_18th_and_19th_centuries#Minors_in_the_Royal_Navy]]
 Engineer
 Boatswains Mate
 Carpenters Mate

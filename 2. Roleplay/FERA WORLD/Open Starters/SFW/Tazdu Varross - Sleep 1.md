@@ -1,5 +1,5 @@
 ---
-Character: Tazdu
+Character: Tazdu Varross
 Lewd: No
 ---
 # Character

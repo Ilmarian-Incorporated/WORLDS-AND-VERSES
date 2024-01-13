@@ -4,9 +4,8 @@ Lewd: No
 ---
 # Character
 [[Violeta Vier]]
-
 # Starter
 
 
-#OpenRP #FeraRP #LewdRP
-![[509eebe1ce06373b435036782ff3fe77.jpg]]
+#OpenRP #FeraRP #MCRP #FantasyRP
+![[777a5c2ef08820a542033b7110e862fc.jpg]]

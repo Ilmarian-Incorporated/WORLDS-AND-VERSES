@@ -3,7 +3,7 @@ Character: Marx
 Lewd: No
 ---
 # Character
-[Marx Delkofer](Marx%20Delkofer.md)
+[[../../../0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/Male/Marx Delkofer]]
 [[Cane Ghoulling]]
 
 

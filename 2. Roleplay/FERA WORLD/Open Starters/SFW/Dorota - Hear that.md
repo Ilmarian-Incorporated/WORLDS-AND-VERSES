@@ -8,5 +8,5 @@ Lewd: No
 # Starter
 "Wait, do you hear that." Dorota asked as she stood up slowly from the camp fire, her eyes slowly closing as she listened
 
-#OpenRP #FeraRP #LewdRP 
-![](FL90BFhWYAEBBhz.jpg)
+#OpenRP #FeraRP #MCRP #FantasyRP 
+![[../../../../1. Attachments/FL90BFhWYAEBBhz.jpg]]

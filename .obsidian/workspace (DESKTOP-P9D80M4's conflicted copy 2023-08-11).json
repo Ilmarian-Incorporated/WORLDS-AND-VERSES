@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "3938c0654eae24dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b35a9cf45a1cd65",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a79b3c72cb0c32b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Menu.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2df3a5eef9a74022",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Roleplay/0. Currently Edited Starters/Bennett Gordon - Too Old.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4884de8f34c63077",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bennett Gordon.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "33bbb89f0e6a4fd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Settings & Misc/0. Templates/0. Character Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c60a8951a2bf028a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e505a612c5df2b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf5b1c6d1ce1dff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tann",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e068f145eb5436c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "354de7843a05b077",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a2c9b369f0108a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 426.5
+  },
+  "right": {
+    "id": "8e08d051b23f736f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d2115f92dcaf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03063c9fcee53ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f46497ab3b82ffa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Roleplay/0. Currently Edited Starters/Bennett Gordon - Too Old.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7491d61eca492c46",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b85e5fdfaff53c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Roleplay/0. Currently Edited Starters/Bennett Gordon - Too Old.md"
+              }
+            }
+          },
+          {
+            "id": "9c867161cac4dc52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Roleplay/0. Currently Edited Starters/Bennett Gordon - Too Old.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff49ef94dcc26a49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "2df3a5eef9a74022",
+  "lastOpenFiles": [
+    "Bennett Gordon.md",
+    "0. Settings & Misc/0. Templates/0. Character Template.md",
+    "Main Menu.md",
+    "2. Roleplay/0. Currently Edited Starters/Bennett Gordon - Too Old.md",
+    "0. Settings & Misc/0. Templates/1. Roleplay Template.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Nikolai Vos - Meeting.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ilyse Spitz - Meeting.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ferdinand de Mount Blanc - Meeting.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Zemfira - Food.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Items and Structures/Books & Written texts/Ceset Uniformed Coalition Collective Bi-laws and codes.md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Rudiger Nessler - 1.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Male/Ferdinand de Mount Blanc.md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Ferdinand de Mount Blanc - 3.md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Ferdinand de Mount Blanc - 1.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Artistic Renditions/Art - 1.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Lästig Tann.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/Locations/3. Lands/The Three Kingdoms/Ilmaria/Arnvoren/Location/The Unusual Trout Tavern.md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/Fera World - Violeta Vier - 1.md",
+    "1. Attachments/2 1.png",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Lastig - Bar.md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (111).md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (114).md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (119).md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (137).md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (136).md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (134).md",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/z - Fera World -   (132).md",
+    "1. Attachments/ssstwitter.com_1691340574875.mp4",
+    "1. Attachments/360_F_585871978_2szpmaijMonohCeQLdgmgm9YLBrv1ipi.jpg",
+    "1. Attachments/1 1.png",
+    "1. Attachments/Pasted image 20230803122413.png",
+    "1. Attachments/tfl-map-16.jpg",
+    "1. Attachments/Pasted image 20230730132010.png",
+    "1. Attachments/Pasted image 20230730131930.png",
+    "1. Attachments/Pasted image 20230730131910.png",
+    "1. Attachments/Pasted image 20230730131909.png",
+    "1. Attachments/Pasted image 20230730131758.png",
+    "~ Backroom/Dwarf Fortress",
+    "3. Source Books & Information/A Conlanger's Thesaurus.pdf",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Josephine Auerswald - 2.sync-conflict-20230705-175950-IYLYG3O.md.tmp",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Josephine Auerswald - 2.md.tmp",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Inga Vogel - 1.sync-conflict-20230704-172029-IYLYG3O.md.tmp",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Inga Vogel - 1.sync-conflict-20230704-171934-IYLYG3O.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Arizali Dhunnyr - 5.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 6.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 5.md.tmp",
+    "Untitled.canvas"
+  ]
+}

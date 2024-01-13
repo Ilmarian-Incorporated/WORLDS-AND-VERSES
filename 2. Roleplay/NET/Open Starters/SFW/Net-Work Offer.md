@@ -1,6 +1,6 @@
 ---
 Character: NET
-Lewd: 
+Lewd: No
 ---
 
 ###### Tags

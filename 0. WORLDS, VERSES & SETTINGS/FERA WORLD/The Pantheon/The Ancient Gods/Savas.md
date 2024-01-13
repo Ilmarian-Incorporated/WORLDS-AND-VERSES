@@ -6,4 +6,4 @@
 
 Savas
 	God of Anger
-![](Savas.jpg)
+![[../../../../1. Attachments/Savas.jpg]]

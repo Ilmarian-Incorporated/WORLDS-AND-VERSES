@@ -1,6 +1,6 @@
 ---
-Character: Quill
-Lewd: YNo
+Character: Tazdu Varross
+Lewd: No
 ---
 # Character
 [[Tazdu Varross]]

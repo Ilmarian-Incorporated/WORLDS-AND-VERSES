@@ -1,5 +1,9 @@
 # Latest changes
 
+- 11112023 : 20:22
+	- Added new characters, info and stuff for other worlds
+	- Added "World" to Character tags so display can be by world.
+
 - 04022023 : 12:27
 	- Reformatted everything to include all my Writing verses
 	- Added other non-Fera Books to the list
@@ -10,7 +14,7 @@
 	- Reorganised People into Male & Female folders
 
 - 19012023 : 14:42
-	- Updated Character Images with AI Gerated Art
+	- Updated Character Images with AI Generated Art
 
 - 14012023 : 16:52
 	- Added Timeline
@@ -21,7 +25,7 @@
 	- Added a bunch of new Characters and Starters
 
 - 12102022 : 21:05
-	- Added a Book section wijth Published and Non-Published sections.
+	- Added a Book section with Published and Non-Published sections.
 	- Added a bunch of new starters and characters
 
 - 14082022 : 22:53

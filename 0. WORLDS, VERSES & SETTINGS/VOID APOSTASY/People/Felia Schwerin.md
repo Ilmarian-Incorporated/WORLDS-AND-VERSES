@@ -1,35 +1,32 @@
 ---
-Name: 
+Name: Felia Schwerin  
+Gender: 
 Location: 
-Year: N/A
+Year: 
+Playable:
+World: Void Apostasy
 ---
 
 ### Tags
-#Character #VoidApostasy 
+#Character 
+
+> [!infobox|light]+  
+> # Felia Schwerin  
+> ![[IMG]]  
+> ###### Character Information
+>  |   |
+> --|---|  
+> Name | Felia Schwerin |  
+> Alias | TXT |  
+> Race | TXT |  
+> Gender | TXT |
+> Languages | TXT |
+> Date of Birth | TXT |
+> Date of Death | TXT |
 
 # Felia Schwerin
-![[3c4f990afb89bae544b6257c6bec7719.jpg]]
 
 # Summary
-
-
-# Character Information
-
-## Name
-
-## Alias
-
-## Race
-
-## Gender
-
-## Languages
-
-## Locations of Interest
-
-## Date of Birth
-
-## Date of Death
 
 # Appearance
 
@@ -37,6 +34,12 @@ Year: N/A
 
 # People of Interest
 
+# Locations of Interest
+
 # History
 
 # Images
+
+# Inspired Images
+
+![[3c4f990afb89bae544b6257c6bec7719.jpg]]

@@ -1,20 +1,17 @@
-![[[Faith 1] Faith In Drugs.png]]
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # Faithless 1. Faith In Drugs (Short Story)    
+> ![[[Faith 1] Faith In Drugs.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | Faithless 1. Faith In Drugs (Short Story) |  
+> Type | Short Story |
+> Format | Epub | 
+> Status | Redacted - To Be Redone | 
+> Genre | Lewd | 
+> Setting | Faithless | 
 
 # Summary
-
 
 # Plot
 

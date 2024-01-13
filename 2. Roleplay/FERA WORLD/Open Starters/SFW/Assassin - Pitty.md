@@ -11,4 +11,4 @@ Assassin
   
 
 #OpenRP #FeraRP #LewdRP 
-![](EsT5-6jW4AEBAhO.jpg)
+![[../../../../1. Attachments/EsT5-6jW4AEBAhO.jpg]]

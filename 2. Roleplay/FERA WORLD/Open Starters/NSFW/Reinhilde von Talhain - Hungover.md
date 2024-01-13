@@ -1,5 +1,5 @@
 ---
-Character: Reinhilde
+Character: Reinhilde von Talhain
 Lewd: Yes
 ---
 # Character

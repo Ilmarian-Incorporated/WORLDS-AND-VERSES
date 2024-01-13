@@ -1,6 +1,6 @@
 ---
 Character: Olivia Schmidt
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Olivia Schmidt]]

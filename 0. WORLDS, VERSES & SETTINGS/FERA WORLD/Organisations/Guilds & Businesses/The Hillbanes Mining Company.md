@@ -21,4 +21,3 @@ The Hillbanes Mining Company, or "Inen-Ugog Avuz Kötad" in the native tongue of
  - [[Nilud Stukoserar]] - Apprentice Blacksmith - Female - Daughter to Leader
  - [[Adil Cilobnin]] - Blacksmith - Male
  - [[Îton Keshanaban]] - Miner - Male
- - 

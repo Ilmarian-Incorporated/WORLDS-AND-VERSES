@@ -43,6 +43,12 @@
 - [[Shield-Maiden (Short Story)]]
 - [[The Seeds of Beauvon (Short Story)]]
 - [[Heiress (Short Story)]]
+- [[They Came At Night (Short Story)]]
+- [[On A Night Darkly (Short Story)]]
+- [[A Child's War (Short Story)]]
+- [[Trouble on the Intercontinental (Short Story)]]
+- [[The Usta Zalim (Short Story)]]
+- [[Lost (Short Story)]] 
 
 ## Unpublished Work
 
@@ -51,7 +57,7 @@
 - [[The Ascetic of Appetence (Novel)]]
 - [[Desert Rat (Novel)]]
 - [[The Dasterdly Tales of the Van Der Graphe Gang (Novel)]]
-- [[The Stranger oif the Creed (Novel)]]
+- [[The Stranger of the Creed (Novel)]]
 - [[Lost In Darkness (Novel)]]
 - [[Harlot of Yesterday (Novel)]]
 - [[Empire of Love (Novel)]]
@@ -63,12 +69,9 @@
 
 **Short Stories**
 
-- [[5. Books/Non-Published/Short Story/On A Night Darkly (Short Story)]]
-- [[It Came at Night (Short Story)]]
-- [[The Usta Zalim (Short Story)]]
-- [[The Darkest Nights (Short Story)]]
+ -[[The Darkest Nights (Short Story)]]
 - [[Dorothee Story (Short Story)]]
-- [[An Ascent Iinto Madness (Short Story)]]
+- [[An Ascent into Madness (Short Story)]]
 - [[The Case of the Imperial Ripper (Short Story)]]
 - [[In Shadow (Short Story)]]
 - [[Nehir Nur (Short Story)]]
@@ -78,7 +81,7 @@
 - [[House of Sin (Short Story)]]
 - [[Sister of Sin (Short Story)]]
 - [[The Collected Stories of Kimura Yasunori (Short Story)]]
-- [[Project Kriegerin (Short Story)]]
+- [[Project Kriegerin (Novella)]]
 - [[Bey Story (Short Story)]]
 - [[Enter the Gates (Short Story)]]
 - [[Schriftstellar (Short Story)]]
@@ -86,7 +89,6 @@
 - [[Bright (Short Story)]]
 - [[Royal Protector (Short Story)]]
 - [[Asuka Kosuke (Short Story)]]
-- [[Throuble on the Intercontinental (Short Story)]]
 - [[Ryder (Short Story)]]
 - [[Gunslinger (Short Story)]]
 - [[Sink the Caeser (Short Story)]]

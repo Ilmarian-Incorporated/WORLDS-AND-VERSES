@@ -6,7 +6,7 @@ Lewd: Yes
 [[Ike]]
 
 # Starter
-Ike had to do it, for the water voucher she had to just sit there in the tavern.
+[[Ike]] had to do it, for the water voucher she had to just sit there in the tavern.
 
 Without trousers.
 

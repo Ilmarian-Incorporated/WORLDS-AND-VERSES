@@ -6,7 +6,7 @@ Lewd: Yes
 [[Ike]]
 
 # Starter
-"This isn't funny." Ike groaned as her neck got a kink in it. Waking up like this did not help.
+"This isn't funny." [[Ike]] groaned as her neck got a kink in it. Waking up like this did not help.
 
 "Let me go." She warned. "Or else."
 

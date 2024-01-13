@@ -1,9 +1,10 @@
 ---
-Name: Sevarian Holloway  
-Gender: 
-Location: 
-Year: 
-Playable:
+Name: Sevarian Holloway
+Gender: Male
+Location: Friebruck
+Year: 1300 E
+Playable: No
+World: Fera
 ---
 
 ### Tags

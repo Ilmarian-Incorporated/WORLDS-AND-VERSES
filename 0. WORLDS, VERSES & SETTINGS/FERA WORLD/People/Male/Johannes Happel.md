@@ -4,6 +4,7 @@ Gender: Male
 Location: Ilmaria
 Year: 1900 E
 Playable: No
+World: Fera
 ---
 
 ### Tags
@@ -19,7 +20,7 @@ Playable: No
 > Alias | Prince Elect |  
 > Race | [[Human]] - [[Ilmarian]] |  
 > Gender | Male |
-> Languages | TXT |
+> Languages | [[Ilmarian (Language)]] |
 > Date of Birth | Swordsday the 14th of Midyear 1900 |
 > Date of Death | TXT |
 

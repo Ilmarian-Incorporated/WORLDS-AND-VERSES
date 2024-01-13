@@ -1,6 +1,6 @@
 ---
 Character: Lenna
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Lenna]]

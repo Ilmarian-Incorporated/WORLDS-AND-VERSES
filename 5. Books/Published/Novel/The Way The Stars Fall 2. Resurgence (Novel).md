@@ -1,20 +1,17 @@
-![[TWTSF 2 - Resurgence FRONT.png]]
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # The Way The Stars Fall 2. Resurgence
+> ![[TWTSF 2 - Resurgence FRONT.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | The Way The Stars Fall 2. Resurgence |  
+> Type | Novel |
+> Format | Epub, Paperback | 
+> Status | Published | 
+> Genre | Science Fiction | 
+> Setting | "The Way The Stars Fall" Verse | 
 
 # Summary
-
 
 # Plot
 

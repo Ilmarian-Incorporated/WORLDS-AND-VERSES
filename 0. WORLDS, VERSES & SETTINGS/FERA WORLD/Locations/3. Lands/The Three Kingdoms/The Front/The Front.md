@@ -3,7 +3,7 @@
 #FeraWorld
 
 # Summary
-The Front is a hard border between the [Ilmarian Imperium (Nation)](Ilmarian%20Imperium%20(Nation).md) and the [Alrussian Federation (Nation)](Alrussian%20Federation%20(Nation).md). A series of trench and defensible fortifications that have stood for over a thousand years due to constant wars between the two nations.
+The Front is a hard border between the [[Nation)](Ilmarian Imperium (Nation|Ilmarian Imperium (Nation)]].md) and the [[Nation)](Alrussian Federation (Nation|Alrussian Federation (Nation)]].md). A series of trench and defensible fortifications that have stood for over a thousand years due to constant wars between the two nations.
 
 # Wars
 - [[The First War of Alrussian Aggression]]
@@ -13,7 +13,7 @@ The Front is a hard border between the [Ilmarian Imperium (Nation)](Ilmarian%20I
 - 
 
 # Characters of Interest
-- [[Andreas Vandersryke]]
+- [[Andreas Ibram Vandersryke]]
 - [[Nexanda Tora]]
 - [[Jules Fitzgerald]]
 - [[Vadi Kzygo]]

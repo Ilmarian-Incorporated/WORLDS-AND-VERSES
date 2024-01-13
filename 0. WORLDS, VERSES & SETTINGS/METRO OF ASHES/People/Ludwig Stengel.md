@@ -1,9 +1,10 @@
 ---
-Name: Ludwig Stengel  
-Gender: 
+Name: Ludwig Stengel
+Gender: Male
 Location: 
 Year: N/A
 Playable: Yes
+World: Metro Of Ashes
 ---
 
 ### Tags

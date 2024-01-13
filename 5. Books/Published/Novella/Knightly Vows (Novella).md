@@ -1,21 +1,17 @@
-![[Knightly Vows.png]]
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # Knightly Vows    
+> ![[Knightly Vows.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | Knightly Vows|  
+> Type | Novella |
+> Format | Epub | 
+> Status | Published | 
+> Genre | Action, Romance | 
+> Setting | Fera World | 
 
 # Summary
-
 
 # Plot
 

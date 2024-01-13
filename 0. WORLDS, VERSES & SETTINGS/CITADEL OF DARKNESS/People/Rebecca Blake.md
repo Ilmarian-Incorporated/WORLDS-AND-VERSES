@@ -1,13 +1,14 @@
 ---
-Name: Rebecca Blake  
-Gender: 
-Location: 
-Year: 
-Playable:
+Name: Rebecca Blake
+Gender: Female
+Location: New York
+Year: 1900 L
+Playable: No
+World: Citadel of Darkness
 ---
 
 ### Tags
-#Character #CitadelOfDarkness 
+#Character #CitadelOfDarkness
 
 > [!infobox|light]+  
 > # Rebecca Blake  
@@ -17,9 +18,7 @@ Playable:
 > --|---|  
 > Name | Rebecca Blake |  
 > Alias | TXT |  
-> Race | TXT |  
-> Gender | TXT |
-> Languages | TXT |
+> Gender | Female |
 > Date of Birth | TXT |
 > Date of Death | TXT |
 
@@ -33,6 +32,7 @@ Playable:
 
 # People of Interest
 Wife to [[William Blake]]
+
 # Locations of Interest
 
 # History

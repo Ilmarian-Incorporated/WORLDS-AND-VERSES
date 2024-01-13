@@ -8,4 +8,4 @@ Bojun
 
 God Of Conquest 
 
-![](Bojun.jpg)
+![[../../../../1. Attachments/Bojun.jpg]]

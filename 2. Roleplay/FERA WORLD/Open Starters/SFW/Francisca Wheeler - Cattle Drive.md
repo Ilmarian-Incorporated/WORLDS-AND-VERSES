@@ -1,6 +1,6 @@
 ---
 Character: Francisca Wheeler
-Lewd: NO
+Lewd: No
 ---
 # Character
 [[Francisca Wheeler]]

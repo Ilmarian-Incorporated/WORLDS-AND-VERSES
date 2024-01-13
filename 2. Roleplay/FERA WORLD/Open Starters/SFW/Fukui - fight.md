@@ -9,4 +9,4 @@ Lewd: No
 "You really want to start a fight with me? You'll wish you never even looked in my general direction."
 
 #OpenRP #FeraRP #LewdRP 
-![](shimei_ryomou_by_ammsterdamn-dakykys.jpg)
+![[../../../../1. Attachments/shimei_ryomou_by_ammsterdamn-dakykys.jpg]]

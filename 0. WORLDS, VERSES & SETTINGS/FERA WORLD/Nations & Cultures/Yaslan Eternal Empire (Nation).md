@@ -2,12 +2,12 @@
 
 #FeraWorld
 
-# Sumarry
+# Summary
 
 # Culture
 
 # History
 
 # Slave Races
-
 - [[Ruhsuz (Race)]]
+- [[Üstün]]

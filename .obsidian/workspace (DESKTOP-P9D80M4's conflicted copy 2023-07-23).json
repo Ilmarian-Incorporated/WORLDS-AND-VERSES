@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "3938c0654eae24dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5971e0d7769caaf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc44c3c0f5b6274c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Main Menu.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c60a8951a2bf028a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e505a612c5df2b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dcf5b1c6d1ce1dff",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e068f145eb5436c7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "354de7843a05b077",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a2c9b369f0108a9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 427.5
+  },
+  "right": {
+    "id": "8e08d051b23f736f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1d2115f92dcaf4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d03063c9fcee53ef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9f46497ab3b82ffa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Main Menu.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "7491d61eca492c46",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b85e5fdfaff53c3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Main Menu.md"
+              }
+            }
+          },
+          {
+            "id": "9c867161cac4dc52",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Main Menu.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ff49ef94dcc26a49",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 258.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "command-palette:Open command palette": false,
+      "publish:Publish changes...": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "templates:Insert template": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "graph:Open graph view": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "obisidian-note-linker:Note Linker": false,
+      "canvas:Create new canvas": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "e068f145eb5436c7",
+  "lastOpenFiles": [
+    "0. Settings & Misc/Dwarf Fortress",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Lorenza de Calis.md",
+    "Main Menu.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Johan Johnsen - With it.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Male/Johan Johnsen.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Johan Johnsen - Debt.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Julia - Pathetic.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Iris - Funny.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Imanuela - Sorcery.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Ilyse - Fight.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Avilova  - Deal.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Azul - Held.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Dorota - Nice.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Fredrick Unster - Stupid.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Alexander Fitkau - Really.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Gillian - Slave.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Gillian - Mistake.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Freja Justesen - Meeting.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Gillian - Fun.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Gamer - Gaming.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Girl - Stop.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Girl - Dark.md",
+    "2. Roleplay/FERA WORLD/Open Starters/NSFW/Girl - Boss.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Göçebe.md",
+    "2. Roleplay/FERA WORLD/Open Starters/SFW/Göçebe - Rogue.md",
+    "0. WORLDS, VERSES & SETTINGS/FERA WORLD/People/0. To Edit/Female/Alesia Beaugendre.md",
+    "3. Source Books & Information/A Conlanger's Thesaurus.pdf",
+    "1. Attachments/Pasted image 20230719130627.png",
+    "1. Attachments/361611619_658726292793766_5180488871282016867_n.jpg",
+    "1. Attachments/361607961_658725589460503_2227735445787629765_n.jpg",
+    "1. Attachments/361577060_658726262793769_5473656195532182739_n.jpg",
+    "1. Attachments/361352007_658726112793784_7631628351526488262_n.jpg",
+    "1. Attachments/361299017_658726329460429_6441724168652729150_n.jpg",
+    "1. Attachments/361203640_658725852793810_3236831790203669394_n.jpg",
+    "1. Attachments/360142213_658725982793797_2866093176329482839_n.jpg",
+    "1. Attachments/360136218_658725646127164_732651441536495603_n.jpg",
+    "1. Attachments/360133198_658725782793817_8569518273250980262_n.jpg",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Josephine Auerswald - 2.sync-conflict-20230705-175950-IYLYG3O.md.tmp",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Josephine Auerswald - 2.md.tmp",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Inga Vogel - 1.sync-conflict-20230704-172029-IYLYG3O.md.tmp",
+    "2. Roleplay/1 - To  Edit/Fera World/SFW/~syncthing~Fera World - Inga Vogel - 1.sync-conflict-20230704-171934-IYLYG3O.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Arizali Dhunnyr - 5.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 6.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 5.md.tmp",
+    "2. Roleplay/0. Currently Edited Starters/~syncthing~Untitled 7.md.tmp",
+    "1. Attachments/~syncthing~2039a6e66855367be8cf80084e0bf597.jpg.tmp",
+    "Untitled.canvas"
+  ]
+}

@@ -4,6 +4,7 @@ Gender: Female
 Location: Ilmaria
 Year: 1800 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags

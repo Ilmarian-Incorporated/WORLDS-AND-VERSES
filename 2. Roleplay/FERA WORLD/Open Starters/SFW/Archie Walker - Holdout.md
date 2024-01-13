@@ -10,6 +10,6 @@ The Dragonkin's last push was over. The Ilmarian Imperial Army had won this enga
 
 "Take water men. Ready yourself."
 
-#OpenRP #FeraRP #LewdRP 
+#OpenRP #FeraRP #MCRP #FantasyRP 
 
 ![[Pasted image 20230108114805.png]]

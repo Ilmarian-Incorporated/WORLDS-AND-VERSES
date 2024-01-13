@@ -1,21 +1,17 @@
-![[[Faith 3] Faith In School.png]]
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # Faithless 3. Faith In School (Short Story)    
+> ![[[Faith 3] Faith In School.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | Faithless 3. Faith In School (Short Story) |  
+> Type | Short Story |
+> Format | Epub | 
+> Status | Redacted - To Be Redone | 
+> Genre | Lewd | 
+> Setting | Faithless | 
 
 # Summary
-
 
 # Plot
 

@@ -9,6 +9,12 @@ The distinctive characteristics of the V90 are the integral box magazine in fr
 
 With its long barrel and high-velocity cartridge, the V90 had superior range and better penetration than most other pistols of its era.
 
+## Ammo Variants
+- 7.63×25mm "Vander"
+- .45 ADP "Automatic Darrington Pistol"
+- 9mm "Vander"
+- 8.15mm "Vander"
+
 # Image
 ![[Pasted image 20230513100307.jpg | 350]]
 ![[Pasted image 20230513100343.jpg | 350]]

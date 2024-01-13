@@ -1,21 +1,17 @@
-![[[Faith 2] Faith In Love.png]]
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # Faithless 2. Faith In Love (Short Story)    
+> ![[[Faith 2] Faith In Love.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | Faithless 2. Faith In Love (Short Story) |  
+> Type | Short Story |
+> Format | Epub | 
+> Status | Redacted - To Be Redone | 
+> Genre | Lewd | 
+> Setting | Faithless | 
 
 # Summary
-
 
 # Plot
 

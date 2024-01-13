@@ -9,4 +9,4 @@ Lewd: No
 "You know, I can see the future, and it is not pleasant for you."
 
 #OpenRP #FeraRP #LewdRP 
-![](FNtNAnuXsAINnZ1.jpg)
+![[../../../../1. Attachments/FNtNAnuXsAINnZ1.jpg]]

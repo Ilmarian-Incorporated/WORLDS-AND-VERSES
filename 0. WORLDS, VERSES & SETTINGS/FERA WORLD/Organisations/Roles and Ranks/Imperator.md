@@ -4,9 +4,9 @@
 
 # Summary
 
-The Ruler of the Ilmarian Imperium.
+The Ruler of the [[Ilmarian Imperium (Nation)]].
 
 # Known Imperator's
 
-- [[Andreas Vandersryke]]
+- [[Andreas Ibram Vandersryke]]
 - [[Anton Vandersryke]]

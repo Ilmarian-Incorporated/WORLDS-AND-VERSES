@@ -12,5 +12,5 @@ Listening through the ground, he knew they were only a dozen or so miles away. S
 
 Ealdwin was a mess. Dried blood coated his leather and cloth armour, some his own, mostly the Orcs he pursued. He stank of sweat and looked like shit, torn armour and cloth, equipment carried light and tight to his body as he jumped the small ditch and across the field through the gap in the wheat left by his quarry.
 
-#OpenRP #FeraRP
+#OpenRP #FeraRP #MCRP #FantasyRP #DiscordRP
 ![[Pasted image 20230331185859.png]]

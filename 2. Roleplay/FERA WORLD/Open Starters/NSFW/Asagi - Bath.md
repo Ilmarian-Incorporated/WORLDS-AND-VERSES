@@ -6,8 +6,8 @@ Lewd: Yes
 Asagi
 
 # Starter
-"I don't care if you are the Tsar of Alrussia or the Sultan of Umissia; you can fuck the right out of the bathing room I have rented." The [Aşağı](Aşağı.md) hissed as she glared at them at the door, the tavern room was small and the bath sat in the middle of the room.
+"I don't care if you are the [[../../../../0. WORLDS, VERSES & SETTINGS/FERA WORLD/Races/Elvish Types/Aşağı|[Tsar]] hissed as she glared at them at the door, the tavern room was small and the bath sat in the middle of the room.
 
 
 #OpenRP #FeraRP #LewdRP  #NSFW
-![](20210118_071457.jpg)
+![[../../../../1. Attachments/20210118_071457.jpg]]

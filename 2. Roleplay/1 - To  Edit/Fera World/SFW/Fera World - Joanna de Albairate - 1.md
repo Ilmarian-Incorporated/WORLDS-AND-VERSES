@@ -1,6 +1,6 @@
 ---
 Character: Joanna de Albairate
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Joanna de Albairate]]

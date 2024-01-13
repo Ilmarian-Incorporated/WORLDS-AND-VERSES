@@ -6,8 +6,6 @@ Lewd: No
 [[Josephine Auerswald]]
 
 # Starter
-
-
   
 
 #OpenRP #FeraRP 

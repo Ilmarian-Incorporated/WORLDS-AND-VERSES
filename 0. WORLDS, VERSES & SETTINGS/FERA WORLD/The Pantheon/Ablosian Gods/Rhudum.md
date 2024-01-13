@@ -8,4 +8,4 @@ Rhudum
 
 God Of Nature 
 
-![](Rhudum.jpg)
+![[../../../../1. Attachments/Rhudum.jpg]]

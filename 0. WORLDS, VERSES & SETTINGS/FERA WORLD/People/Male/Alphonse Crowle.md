@@ -1,8 +1,9 @@
 ---
 Gender: Male
-Location: Adestein
+Location: Ilmaria
 Year: 2000 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -57,7 +58,8 @@ During his training he was found to be a [[Gunslinger]], being inducted into the
 ![[starryai-0-517585664-1-0-photo.png | 350]]
 ![[starryai-0-351559054-1-0-photo_2.png | 350]]
 # Inspired Images
-![ | 350](tumblr_o4wth69NSf1tu24ngo3_r1_540.gif)
+![[../../../../1. Attachments/tumblr_o4wth69NSf1tu24ngo3_r1_540.gif| | 350]]
+![[kasumi-night-prom2.jpg]]
 ![[8131f4b0e9fb1104515db94c97ebe527.jpg | 350]]
 ![[18907605fe51472eddbfcdb97547dd12.jpg | 350]]
 ![[b14645a0a80a195ea5b1814a3c6f3511.jpg | 350]]

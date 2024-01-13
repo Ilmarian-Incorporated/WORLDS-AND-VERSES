@@ -4,6 +4,7 @@ Gender: Male
 Location: Ilmaria
 Year: 2000 E
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -19,7 +20,7 @@ Playable: Yes
 > Alias | Illy, Spits, The Hire |  
 > Race | [[Human]] - [[Ilmarian]], [[Zruhir]] - First Class  |  
 > Gender | Male |
-> Languages | [[Ilmarian (Language)]], [[Umissian]], [[Alrussian]], [[Dwarves]] |
+> Languages | [[Ilmarian (Language)]], [[Umissian (Language)]], [[Alrussian (Language)]], [[Dwarven (Language)]] |
 > Date of Birth | Towerday 17th Harvest 1996  |
 > Date of Death | TXT |
 
@@ -29,16 +30,17 @@ Playable: Yes
 
 # Locations of Interest
 - [[Kings March (Village)]] - Hometown
-
+- [[Grostade (City)]]
 # Appearance
 
 # Personality
 
 # People of Interest
-
 - [[Aurelia Rouse]] - Childhood Friend 
 - [[Willow Lientzen]] - Childhood Friend
 - [[Seytan]] - The Scourge inside of him.
+- [[The Sanguine Lillies]] - Allies
+- [[9th Special Detatchment]] - Military Unit
 
 
 # History
@@ -53,6 +55,7 @@ After serving several tours on the demilitarized zone between Ilmaria and Alruss
 A number of years into his service with the [[9th Special Detatchment]], Ilyse was selected as one of the first hundred subjects for [[Operation Able Sentry]]. [[Operation Able Sentry]] was a top secret project for the creation of a super soldier to fight and combat The Scourge called a [[Zruhir]]. 
 
 Out of the 100 initial test subjects, only 10 survived, Ilyse one of them. 
+
 And so from these 10 subjects, and with [[Operation Able Sentry]] deemed a failure due to the casualty rate, [[Operation Moonlight]] began. 
 
 # Images

@@ -47,7 +47,7 @@ Fera is the name of the world upon which we stand upon. Fera has two moons, [[Va
 - [[Götling]]
 - [[Ghül]]
 - [[Vampire]]
-- [[Ruhsuz]]
+- [[Ruhsuz (Race)]]
 - [[Scourge]]
 
 ### Half Caste Races

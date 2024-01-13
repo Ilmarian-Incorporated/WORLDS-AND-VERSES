@@ -4,6 +4,7 @@ Gender: Unknown
 Location: Unknown
 Year: N/A
 Playable: Yes
+World: Net
 ---
 
 ### Tags

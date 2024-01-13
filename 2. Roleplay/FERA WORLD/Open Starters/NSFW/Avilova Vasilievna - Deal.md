@@ -1,0 +1,14 @@
+---
+Character: Avilova Vasilievna
+Lewd: Yes
+---
+# Character
+[[Avilova Vasilievna]]
+
+# Starter
+"Tell me, you really think that I will do anything you say, I've seen your future sir, I am here because you are going to die at my hand but before that you have to do something for me."
+
+Avilova said, letting out a breath of smoke before coughing.
+
+#OpenRP #FeraRP #LewdRP  #NSFW
+![[../../../../1. Attachments/download.jpg]]

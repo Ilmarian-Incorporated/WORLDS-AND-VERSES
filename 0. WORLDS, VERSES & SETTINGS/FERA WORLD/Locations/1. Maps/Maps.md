@@ -4,17 +4,17 @@
 
 # World Map
 
-![](Fera%20World%20Map.png)
+![[../../../../1. Attachments/Fera World Map.png]]
 
 # The Three Kingdoms
 
-![](Three%20Kingdoms.png)
+![[../../../../1. Attachments/Three Kingdoms.png]]
 
 # Vadras
 
 # Ablos
-![](Ablos.png)
+![[../../../../1. Attachments/Ablos.png]]
 
 # Freibruck & Larias
 
-![](Larias%20&%20Freibruck.png)
+![[../../../../1. Attachments/Larias & Freibruck.png]]

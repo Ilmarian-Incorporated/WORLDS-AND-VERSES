@@ -22,4 +22,4 @@ Heading downstairs of the vast Manor hours within [[Tousir (City)]], Mrs Lazard,
 
 There were families and prominent from all through the Imperium coming to this party and she would make sure it went off without a hitch. In fact she had been surprised when their neighbour, a new Lord, had turned up but this was as good as any to get to know her new neighbours so had given them several invitations for their family.
 
-![](1339451276_preview_adam.jpg)
+![[../../../1. Attachments/1339451276_preview_adam.jpg]]

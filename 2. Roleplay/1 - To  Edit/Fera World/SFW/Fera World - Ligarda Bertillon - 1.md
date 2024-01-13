@@ -1,6 +1,6 @@
 ---
 Character: Ligarda Bertillon
-Lewd: no
+Lewd: No
 ---
 # Character
 [[Ligarda Bertillon]]

@@ -1,21 +1,17 @@
-
-
-# Type
-
-# Format
-
-
-# Status
-
-
-# Genre
-
-
-# Timeline Era
-
+> [!infobox|light]+  
+> # Traitor In Love (Novel)    
+> ![[Traitor In Love.png]]
+> ###### Book Information
+>  |   |
+> --|---|  
+> Book Name | Traitor In Love (Novel) |  
+> Type | Novel |
+> Format | Epub | 
+> Status | In Progress | 
+> Genre | Action, Romance | 
+> Setting | Fera | 
 
 # Summary
-
 
 # Plot
 
@@ -23,14 +19,6 @@
 
 [Lewis Stockton's Official Website](https://www.lewisstockton.com/store)
 
-Lewis Stockton's Lulu Store
-
 Lewis Stockton's UK Amazon Store
 
 Lewis Stockton's US Amazon Store
-
-Lewis Stockton's Apple iBook Store
-
-Lewis Stockton's Nook Book Store
-
-Lewis Stockton's Kobo Book Store

@@ -8,5 +8,5 @@ Lewd: No
 # Starter
 "Stay close, don't stray to far or you'll get picked off. I'm supposed to be showing you the sights remember?" 
 
-#OpenRP #FeraRP #LewdRP 
+#OpenRP #FeraRP #MCRP #FantasyRP 
 ![[Pasted image 20220723191105.jpg]]

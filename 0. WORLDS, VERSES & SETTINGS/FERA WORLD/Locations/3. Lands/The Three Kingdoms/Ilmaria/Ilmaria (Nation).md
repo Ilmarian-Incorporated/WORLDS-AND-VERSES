@@ -27,4 +27,4 @@
 - [[The Front]]
 - Yaralti City States
 
-![](Three%20Kingdoms.png)
+![[../../../../../../1. Attachments/Three Kingdoms.png]]

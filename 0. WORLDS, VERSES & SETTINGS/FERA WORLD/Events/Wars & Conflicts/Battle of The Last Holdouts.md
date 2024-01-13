@@ -8,7 +8,7 @@
 
 # Participants
 - Ilmarian Imperial Army
-- Dragonkin Clan
+- Pawhye Dragonkin Clans
 
 
 ![[Pasted image 20230108114750.png]]

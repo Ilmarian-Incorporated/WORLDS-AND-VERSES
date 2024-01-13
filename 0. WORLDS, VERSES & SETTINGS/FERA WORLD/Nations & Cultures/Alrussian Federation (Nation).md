@@ -3,7 +3,7 @@
 #FeraWorld
 
 # Summary
-The Alrussian Federation is the most Northern Nation of [[The Three Kingdoms]].  It is ruled by a Tsar and is a  Stratocracy (Militaristic Monarchy)
+The Alrussian Federation is the most Northern Nation of [[The Three Kingdoms]].  It is ruled by a [[Tsar]] and is a Stratocracy (Militaristic Monarchy)
 
 More commonly known as "Alruskies" by non-Native Alrussians.
 

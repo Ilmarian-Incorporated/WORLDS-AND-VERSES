@@ -4,6 +4,7 @@ Gender: Female
 Location: Alrussia
 Year: 1900 L
 Playable: Yes
+World: Fera
 ---
 
 ### Tags
@@ -19,7 +20,7 @@ Playable: Yes
 > Alias |  Addy, Adel, Adler, Adele  |  
 > Race | [[Human]] - [[Alrussian]] |  
 > Gender | Female |
-> Languages | - [[Ilmarian (Language)]], [[Alrussian]] |
+> Languages | - [[Ilmarian (Language)]], [[Alrussian (Language)]] |
 > Date of Birth | TXT |
 > Date of Death | TXT |
 

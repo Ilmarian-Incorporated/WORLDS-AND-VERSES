@@ -1,5 +1,4 @@
 ---
----
 Character: Zemfira
 Lewd: Yes
 ---

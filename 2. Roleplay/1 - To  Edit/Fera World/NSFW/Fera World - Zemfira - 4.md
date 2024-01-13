@@ -1,6 +1,6 @@
 ---
 Character: Zemfira
-Lewd: No
+Lewd: Yes
 ---
 # Character
 [[Zemfira]]
@@ -9,4 +9,4 @@ Lewd: No
 
 
 #OpenRP #FeraRP #LewdRP
-![[linda-lithen-jester.jpg]]
+![[1039734_zaunis_kinktober-jester.png]]

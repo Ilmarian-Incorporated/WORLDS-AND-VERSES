@@ -8,4 +8,4 @@ Romjir
 
 God Of Revenge 
 
-![](Romjir.jpg)
+![[../../../../1. Attachments/Romjir.jpg]]

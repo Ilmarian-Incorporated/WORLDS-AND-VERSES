@@ -7,4 +7,4 @@
 Narasil
 	Goddess of Life
 	
- ![](Narasil.jpg)
+ ![[../../../../1. Attachments/Narasil.jpg]]

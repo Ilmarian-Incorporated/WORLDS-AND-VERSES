@@ -15,3 +15,5 @@ Gasping out for air, she ducked out of his next swing and moved into the middle 
 "That all you got?" She taunted and swung out her fists as if cocking a pair of shotguns. Spitting blood to one side, she came in quickly. three hits from the right, two from the left and a left-right-left-right series of blows. the Half-Orc hit the wooden boards hard and with a wide swing tried to get her off him. 
 
 Tola ducked and swung a swing right at his broken tusked jaw and the leather wraps on her wrists only just stopped her from cutting open her knuckles. "The Beast from the North" dropped like a sack of bricks and the crowd cheered and boo'ed. Bets had been made, bets had been lost.
+
+#OpenRP #FeraRP #MCRP #FantasyRP #DiscordRP

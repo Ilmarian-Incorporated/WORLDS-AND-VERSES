@@ -7,8 +7,8 @@ In the "Year" section, "E" Denotes Early in the Century, set 00 - 49, "L" Denote
 
 ***THIS IS USING DATAVIEW AND CURRENTLY HAS ISSUES WITH DISPLAYING ON PUBLISHED. IT MAY BE FIXED IN THE FUTURE.***
 ```dataview
-TABLE Gender, Location, Year
-FROM #FeraCharacter and -#NPC
-SORT year
+TABLE Gender, Location, Year, Playable, World
+FROM #Character
+SORT World, Year, Playable
 
 ```

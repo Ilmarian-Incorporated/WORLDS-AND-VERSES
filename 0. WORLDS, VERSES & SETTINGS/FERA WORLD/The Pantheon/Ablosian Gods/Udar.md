@@ -8,4 +8,4 @@ Udar
 
 Goddess Of Good Luck 
 
-![](Udar.jpg)
+![[../../../../1. Attachments/Udar.jpg]]

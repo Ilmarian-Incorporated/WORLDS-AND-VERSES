@@ -8,4 +8,4 @@ Lewd: Yes
 # Starter
 "Can't you see I am busy?"
  
-#OpenRP #FeraRP #LewdRP![](FOkemCsXEAEKtu9.jpg)
+#OpenRP #FeraRP #LewdRP![[../../../../1. Attachments/FOkemCsXEAEKtu9.jpg]]
