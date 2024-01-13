@@ -12,13 +12,8 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Menu.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "pinned": true
             }
           },
@@ -121,7 +116,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Menu.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +171,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Menu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -187,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Menu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,16 +224,16 @@
       "markdown-importer:Open format converter": false,
       "canvas:Create new canvas": false,
       "templater-obsidian:Templater": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obisidian-note-linker:Note Linker": false,
       "obsidian-map-view:Open map view": false,
       "homepage:Open homepage": false,
-      "obisidian-note-linker:Note Linker": false
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "obsidian-5e-statblocks:Open Creature Pane": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe18af50c3738051",
+  "active": "e068f145eb5436c7",
   "lastOpenFiles": [
     "~ Backroom/Roleplay Starter Menu.md",
     "2. Roleplay/FERA WORLD/Open Starters/NSFW/Ellie O'More - Piss.md",

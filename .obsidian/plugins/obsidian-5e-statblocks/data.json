@@ -50067,13 +50067,13 @@
       "blocks": [
         {
           "type": "inline",
-          "id": "98faf89acbbb",
+          "id": "69980ad9b9a8",
           "properties": [],
           "hasRule": true,
           "nested": [
             {
               "type": "group",
-              "id": "69ab58986b39",
+              "id": "ea2a89482859",
               "properties": [
                 "name",
                 "size",
@@ -50084,7 +50084,7 @@
               "nested": [
                 {
                   "type": "heading",
-                  "id": "7beafa9be908",
+                  "id": "cbca58d8b9eb",
                   "properties": [
                     "name"
                   ],
@@ -50093,7 +50093,7 @@
                 },
                 {
                   "type": "subheading",
-                  "id": "39381839299b",
+                  "id": "5a28ab9a3988",
                   "properties": [
                     "size",
                     "type",
@@ -50107,7 +50107,7 @@
             },
             {
               "type": "image",
-              "id": "f819b97b58b8",
+              "id": "ea59ba896aca",
               "properties": [
                 "image"
               ]
@@ -50116,7 +50116,7 @@
         },
         {
           "type": "group",
-          "id": "9a3979a9a98b",
+          "id": "7bd979f839c8",
           "properties": [
             "ac",
             "hp",
@@ -50125,7 +50125,7 @@
           "nested": [
             {
               "type": "property",
-              "id": "e929684ba9f8",
+              "id": "896bb8d90a08",
               "properties": [
                 "ac"
               ],
@@ -50134,7 +50134,7 @@
             },
             {
               "type": "property",
-              "id": "f879aa8ba9ea",
+              "id": "ba086a39bb18",
               "properties": [
                 "hp"
               ],
@@ -50147,7 +50147,7 @@
             },
             {
               "type": "property",
-              "id": "fa18eb3b3bab",
+              "id": "8a0bbac91808",
               "display": "Speed",
               "properties": [
                 "speed"
@@ -50160,7 +50160,7 @@
         },
         {
           "type": "table",
-          "id": "f98968b97bd9",
+          "id": "9828683b5ac8",
           "properties": [
             "stats"
           ],
@@ -50178,7 +50178,7 @@
         },
         {
           "type": "table",
-          "id": "fb591bf809d8",
+          "id": "d91a8a38eb7a",
           "properties": [
             "fage_stats"
           ],
@@ -50199,7 +50199,7 @@
         },
         {
           "type": "group",
-          "id": "6b4b688958fb",
+          "id": "991b3be8a97a",
           "properties": [
             "saves",
             "skillsaves",
@@ -50214,7 +50214,7 @@
           "nested": [
             {
               "type": "saves",
-              "id": "2bcbda5b3b5a",
+              "id": "887af92b4b0a",
               "display": "Saves",
               "properties": [
                 "saves"
@@ -50223,7 +50223,7 @@
             },
             {
               "type": "saves",
-              "id": "ea68ca5b69a9",
+              "id": "f9db6a0bba8b",
               "display": "Skills",
               "properties": [
                 "skillsaves"
@@ -50232,7 +50232,7 @@
             },
             {
               "type": "property",
-              "id": "9b7aba4909bb",
+              "id": "f9f98b5a6b5b",
               "display": "Damage Resistances",
               "properties": [
                 "damage_resistances"
@@ -50241,7 +50241,7 @@
             },
             {
               "type": "property",
-              "id": "aada19581b19",
+              "id": "5b384a5978f8",
               "display": "Damage Immunities",
               "properties": [
                 "damage_immunities"
@@ -50250,7 +50250,7 @@
             },
             {
               "type": "property",
-              "id": "2b7b99f94adb",
+              "id": "3ae91b7a8868",
               "display": "Condition Immunities",
               "properties": [
                 "condition_immunities"
@@ -50259,7 +50259,7 @@
             },
             {
               "type": "property",
-              "id": "3ac8f8f84bb8",
+              "id": "89d87a4a18b8",
               "display": "Damage Vulnerabilities",
               "properties": [
                 "damage_vulnerabilities"
@@ -50268,7 +50268,7 @@
             },
             {
               "type": "property",
-              "id": "2a0beb9bbacb",
+              "id": "9bf868eaebba",
               "display": "Senses",
               "properties": [
                 "senses"
@@ -50277,7 +50277,7 @@
             },
             {
               "type": "property",
-              "id": "8b58f958885b",
+              "id": "abe9aada0a7b",
               "display": "Languages",
               "properties": [
                 "languages"
@@ -50286,13 +50286,13 @@
             },
             {
               "type": "inline",
-              "id": "8b89c97a4889",
+              "id": "f9c8d9989838",
               "properties": [],
               "conditioned": true,
               "nested": [
                 {
                   "type": "property",
-                  "id": "793828b8a9aa",
+                  "id": "8b9a8a0bd8b9",
                   "display": "Challenge",
                   "properties": [
                     "cr"
@@ -50301,7 +50301,7 @@
                 },
                 {
                   "type": "property",
-                  "id": "c9f8c8aadb6b",
+                  "id": "79fa3afa3bb9",
                   "display": "Proficiency Bonus",
                   "properties": [
                     "cr"
@@ -50316,7 +50316,7 @@
         },
         {
           "type": "traits",
-          "id": "b9e87b284b38",
+          "id": "5aea9af80bfb",
           "properties": [
             "traits"
           ],
@@ -50325,7 +50325,7 @@
         },
         {
           "type": "spells",
-          "id": "085a1afba8e8",
+          "id": "6868baea7818",
           "properties": [
             "spells"
           ],
@@ -50334,7 +50334,7 @@
         },
         {
           "type": "text",
-          "id": "aa8a4b99abea",
+          "id": "784b18a9b86a",
           "properties": [
             "spellsNotes"
           ],
@@ -50343,7 +50343,7 @@
         },
         {
           "type": "traits",
-          "id": "29b9981a8aa8",
+          "id": "2a5aea4b39d9",
           "properties": [
             "actions"
           ],
@@ -50353,7 +50353,7 @@
         },
         {
           "type": "traits",
-          "id": "68f9198a6b78",
+          "id": "cb2a2baa9958",
           "properties": [
             "bonus_actions"
           ],
@@ -50363,7 +50363,7 @@
         },
         {
           "type": "group",
-          "id": "4bab3b6be94b",
+          "id": "a80aa8f90a4a",
           "properties": [
             "legendary_description",
             "legendary_actions"
@@ -50372,7 +50372,7 @@
           "nested": [
             {
               "type": "text",
-              "id": "6b49784829eb",
+              "id": "7a99b9da5af9",
               "properties": [
                 "legendary_description"
               ],
@@ -50381,7 +50381,7 @@
             },
             {
               "type": "traits",
-              "id": "08e9e9095868",
+              "id": "0b2a4b3adbca",
               "properties": [
                 "legendary_actions"
               ],
@@ -50393,7 +50393,7 @@
         },
         {
           "type": "traits",
-          "id": "8869a848aa29",
+          "id": "48d8b868a8d8",
           "properties": [
             "mythic_actions"
           ],
@@ -50403,7 +50403,7 @@
         },
         {
           "type": "traits",
-          "id": "f9daaa395809",
+          "id": "9a5919fa89cb",
           "properties": [
             "reactions"
           ],
@@ -50413,7 +50413,7 @@
         },
         {
           "type": "traits",
-          "id": "6a8bdb68189b",
+          "id": "fb5b294b5b9b",
           "properties": [
             "lair_actions"
           ],
